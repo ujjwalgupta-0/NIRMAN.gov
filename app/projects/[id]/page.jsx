@@ -32,7 +32,7 @@ function ProjectPageContent({ params }) {
   if (error?.startsWith("Project ") && error.includes("is not in the currently loaded project data")) return <div className="mx-auto max-w-3xl rounded-2xl border border-amber-200 bg-amber-50 p-5 sm:p-6">
     <p className="text-xs font-bold uppercase tracking-wide text-amber-800">Project unavailable</p>
     <h1 className="mt-1 text-xl font-bold text-slate-950">This project is not in the current data snapshot</h1>
-    <p className="mt-2 text-sm text-slate-700">The project ID may belong to a different imported dataset. Browse the projects in the active snapshot, or check Data settings to restore the bundled demo data.</p>
+    {/* <p className="mt-2 text-sm text-slate-700">The project ID may belong to a different imported dataset. Browse the projects in the active snapshot, or check Data settings to restore the bundled demo data.</p> */}
     <div className="mt-4 flex flex-wrap gap-2"><Link href="/projects" className="btn-primary rounded-lg">Browse projects</Link><Link href="/settings" className="btn-ghost rounded-lg bg-white">Data settings</Link></div>
   </div>;
   if (error) return <ErrorState message={error} retry={retry} />;
@@ -58,7 +58,7 @@ function ProjectPageContent({ params }) {
     ["Progress", value(inputs.actualProgress ?? project.physical, (actual) => `${percent(actual)} actual${(inputs.plannedProgress ?? project.expectedPhysical) == null ? "" : ` / ${percent(inputs.plannedProgress ?? project.expectedPhysical)} planned`}`)],
     ["Budget", [percent(inputs.spendPct ?? project.financial) && `${percent(inputs.spendPct ?? project.financial)} spent`, amount(inputs.remainingBudget) && `${amount(inputs.remainingBudget)} remaining`].filter(Boolean).join(" · ")],
     ["Schedule", [value(inputs.monthsElapsed, (item) => `${item} months elapsed`), value(inputs.monthsToCompletion ?? project.months_to_planned_completion, (item) => `${item} months to completion`)].filter(Boolean).join(" · ")],
-    ["Contractor", [inputs.contractorName, inputs.contractorId].filter(Boolean).join(" · ")],
+    ["Contractor", inputs.contractorName],
     ["Quality / inspection", [value(inputs.qualityScore, (item) => `Quality ${item}/100`), value(inputs.inspectionScore, (item) => `Inspection ${item}/100`)].filter(Boolean).join(" · ")]
   ].filter(([, item]) => item != null && item !== "");
   const additionalOverview = [
@@ -118,7 +118,7 @@ function ProjectPageContent({ params }) {
           </section>
           {contractorFacts.length > 0 && <section className="rounded-xl border border-indigo-200 bg-gradient-to-r from-indigo-50 via-white to-sky-50 p-3 shadow-sm">
             <p className="text-sm font-extrabold text-indigo-800">Contractor record</p>
-            <h3 className="mt-1 text-base font-bold text-slate-950">{inputs.contractorName || "Contractor work history"}{inputs.contractorId ? <span className="ml-1.5 text-sm font-semibold text-slate-500">· {inputs.contractorId}</span> : null}</h3>
+            <h3 className="mt-1 text-base font-bold text-slate-950">{inputs.contractorName || "Contractor work history"}</h3>
             <ul className="mt-2 space-y-1.5">
               {contractorFacts.map((fact) => <li key={fact} className="flex items-start gap-2 text-sm leading-snug text-slate-700"><span aria-hidden="true" className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-indigo-500" />{fact}</li>)}
             </ul>
