@@ -1,0 +1,226 @@
+project_id,contractor_id,state_code,state_name,district,city,city_district,climate_region,is_union_territory,sector_name,executing_agency,project_start_date,planned_completion_date,planned_months,planned_cost_cr
+P0005,CTR-11,AP,Andhra Pradesh,Visakhapatnam,Visakhapatnam,Visakhapatnam,coastal,False,Roads & Highways,NHAI,2023-07-01,2027-11-01,52,1056.9
+P0007,CTR-29,RJ,Rajasthan,Jodhpur,Jodhpur,Jodhpur,north-west,False,Roads & Highways,State PWD,2020-02-01,2021-12-01,22,209.6
+P0010,CTR-02,BR,Bihar,Muzaffarpur,Muzaffarpur,Muzaffarpur,gangetic,False,Roads & Highways,State PWD,2023-10-01,2029-09-01,71,1924.8
+P0023,CTR-04,KL,Kerala,Thiruvananthapuram,Thiruvananthapuram,Thiruvananthapuram,malabar,False,Railways,IRCON,2016-07-01,2021-08-01,61,246.7
+P0025,CTR-05,AP,Andhra Pradesh,NTR,Vijayawada,Vijayawada,coastal,False,Railways,RVNL,2021-08-01,2027-03-01,67,217.6
+P0029,CTR-15,WB,West Bengal,Kolkata,Kolkata,Kolkata,east,False,Roads & Highways,State PWD,2017-12-01,2020-10-01,34,158.4
+P0030,CTR-27,GJ,Gujarat,Surat,Surat,Surat,west,False,Aviation & Aviation Infrastructure,AAI,2014-09-01,2020-10-01,73,762.5
+P0031,CTR-01,HR,Haryana,Faridabad,Faridabad,Faridabad,north,False,Roads & Highways,State PWD,2017-10-01,2022-04-01,54,3105.6
+P0033,CTR-11,JH,Jharkhand,Dhanbad,Dhanbad,Dhanbad,central,False,Roads & Highways,State PWD,2019-10-01,2025-06-01,68,581.5
+P0039,CTR-03,AP,Andhra Pradesh,Guntur,Guntur,Guntur,coastal,False,Roads & Highways,MoRTH,2021-01-01,2026-08-01,67,151.7
+P0044,CTR-04,AP,Andhra Pradesh,NTR,Vijayawada,Vijayawada,coastal,False,Railways,RVNL,2021-06-01,2027-04-01,70,347.0
+P0049,CTR-30,OD,Odisha,Khordha,Bhubaneswar,Bhubaneswar,east,False,Railways,RVNL,2021-09-01,2024-11-01,38,902.1
+P0054,CTR-06,AR,Arunachal Pradesh,Papum Pare,Itanagar,Itanagar,himalayan,False,Railways,Indian Railways,2023-11-01,2026-06-01,31,150.0
+P0055,CTR-17,KA,Karnataka,Bengaluru Urban,Bengaluru,Bengaluru,deccan,False,Roads & Highways,MoRTH,2025-01-01,2028-08-01,43,1935.7
+P0060,CTR-03,PB,Punjab,Ludhiana,Ludhiana,Ludhiana,north,False,Roads & Highways,MoRTH,2022-11-01,2026-03-01,40,2193.6
+P0063,CTR-15,JH,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,central,False,Roads & Highways,NHAI,2025-10-01,2029-04-01,42,207.1
+P0065,CTR-01,UP,Uttar Pradesh,Kanpur Nagar,Kanpur,Kanpur,gangetic,False,Water Resources,State Irrigation Dept,2025-05-01,2029-10-01,53,561.8
+P0066,CTR-15,JK,Jammu and Kashmir,Srinagar,Srinagar,Srinagar,himalayan,True,Roads & Highways,State PWD,2022-10-01,2026-07-01,45,288.9
+P0067,CTR-03,TN,Tamil Nadu,Coimbatore,Coimbatore,Coimbatore,coastal,False,Roads & Highways,NHAI,2022-10-01,2027-04-01,54,946.6
+P0070,CTR-06,WB,West Bengal,Kolkata,Kolkata,Kolkata,east,False,Water Resources,NWDA,2014-05-01,2019-10-01,65,236.3
+P0072,CTR-15,MH,Maharashtra,Mumbai Suburban,Mumbai,Mumbai,west,False,Railways,IRCON,2022-03-01,2028-07-01,76,663.3
+P0076,CTR-19,MP,Madhya Pradesh,Indore,Indore,Indore,central,False,Oil & Gas,IOCL,2025-07-01,2031-01-01,66,693.4
+P0077,CTR-26,BR,Bihar,Gaya,Gaya,Gaya,gangetic,False,Roads & Highways,NHAI,2019-07-01,2025-10-01,75,307.4
+P0078,CTR-19,TN,Tamil Nadu,Madurai,Madurai,Madurai,coastal,False,Roads & Highways,MoRTH,2022-09-01,2025-04-01,31,177.1
+P0081,CTR-14,UP,Uttar Pradesh,Lucknow,Lucknow,Lucknow,gangetic,False,Roads & Highways,MoRTH,2016-01-01,2019-12-01,47,253.3
+P0082,CTR-27,MP,Madhya Pradesh,Indore,Indore,Indore,central,False,"Tourism, Hospitality & Wellness",Ministry of Tourism,2025-07-01,2027-12-01,29,965.5
+P0084,CTR-16,HR,Haryana,Faridabad,Faridabad,Faridabad,north,False,Roads & Highways,NHAI,2021-12-01,2025-03-01,39,1068.0
+P0086,CTR-30,RJ,Rajasthan,Udaipur,Udaipur,Udaipur,north-west,False,Roads & Highways,MoRTH,2020-10-01,2023-01-01,27,4917.8
+P0096,CTR-29,RJ,Rajasthan,Jaipur,Jaipur,Jaipur,north-west,False,Roads & Highways,MoRTH,2018-11-01,2022-11-01,48,1066.0
+P0097,CTR-25,BR,Bihar,Gaya,Gaya,Gaya,gangetic,False,Railways,Indian Railways,2019-09-01,2025-04-01,67,303.0
+P0101,CTR-14,AP,Andhra Pradesh,NTR,Vijayawada,Vijayawada,coastal,False,Railways,IRCON,2014-01-01,2019-07-01,66,2730.1
+P0109,CTR-01,OD,Odisha,Khordha,Bhubaneswar,Bhubaneswar,east,False,Roads & Highways,NHAI,2023-12-01,2027-05-01,41,1484.4
+P0110,CTR-07,HP,Himachal Pradesh,Shimla,Shimla,Shimla,himalayan,False,Railways,IRCON,2025-04-01,2026-10-01,18,518.4
+P0118,CTR-25,UT,Uttarakhand,Dehradun,Dehradun,Dehradun,himalayan,False,Roads & Highways,MoRTH,2021-01-01,2023-08-01,31,465.8
+P0120,CTR-17,MP,Madhya Pradesh,Indore,Indore,Indore,central,False,Aviation & Aviation Infrastructure,AAI,2021-06-01,2025-03-01,45,1206.6
+P0136,CTR-28,WB,West Bengal,Darjeeling,Siliguri,Siliguri,east,False,Roads & Highways,State PWD,2015-11-01,2022-04-01,77,3369.5
+P0137,CTR-05,JK,Jammu and Kashmir,Srinagar,Srinagar,Srinagar,himalayan,True,Oil & Gas,IOCL,2019-06-01,2022-01-01,31,259.1
+P0139,CTR-06,JH,Jharkhand,Dhanbad,Dhanbad,Dhanbad,central,False,Railways,Indian Railways,2019-07-01,2025-11-01,76,805.9
+P0141,CTR-12,GJ,Gujarat,Ahmedabad,Ahmedabad,Ahmedabad,west,False,Roads & Highways,State PWD,2025-01-01,2027-01-01,24,181.8
+P0155,CTR-26,PB,Punjab,Jalandhar,Jalandhar,Jalandhar,north,False,Roads & Highways,MoRTH,2024-06-01,2027-03-01,33,479.1
+P0165,CTR-06,WB,West Bengal,Kolkata,Kolkata,Kolkata,east,False,Roads & Highways,State PWD,2025-06-01,2027-04-01,22,621.3
+P0168,CTR-05,RJ,Rajasthan,Jaipur,Jaipur,Jaipur,north-west,False,Roads & Highways,NHAI,2026-03-01,2028-04-01,25,243.4
+P0174,CTR-08,ML,Meghalaya,East Khasi Hills,Shillong,Shillong,northeast,False,Roads & Highways,State PWD,2022-05-01,2027-08-01,63,427.1
+P0192,CTR-06,AS,Assam,Kamrup Metropolitan,Guwahati,Guwahati,northeast,False,Electricity Generation,NHPC,2015-06-01,2021-07-01,73,150.0
+P0196,CTR-08,AP,Andhra Pradesh,Visakhapatnam,Visakhapatnam,Visakhapatnam,coastal,False,Roads & Highways,NHAI,2026-04-01,2028-04-01,24,620.5
+P0198,CTR-19,WB,West Bengal,Darjeeling,Siliguri,Siliguri,east,False,Roads & Highways,MoRTH,2025-02-01,2028-06-01,40,597.0
+P0199,CTR-09,DL,Delhi,New Delhi,New Delhi,New Delhi,north,True,Roads & Highways,State PWD,2025-01-01,2029-05-01,52,730.6
+P0204,CTR-28,KA,Karnataka,Dharwad,Hubballi,Hubballi,deccan,False,Roads & Highways,MoRTH,2024-08-01,2030-09-01,73,240.6
+P0208,CTR-12,HR,Haryana,Gurugram,Gurugram,Gurugram,north,False,Roads & Highways,NHAI,2016-02-01,2022-03-01,73,252.5
+P0209,CTR-30,KA,Karnataka,Dharwad,Hubballi,Hubballi,deccan,False,Roads & Highways,MoRTH,2024-11-01,2028-05-01,42,848.7
+P0210,CTR-21,WB,West Bengal,Kolkata,Kolkata,Kolkata,east,False,Roads & Highways,MoRTH,2023-11-01,2028-01-01,50,2174.4
+P0211,CTR-24,KL,Kerala,Thiruvananthapuram,Thiruvananthapuram,Thiruvananthapuram,malabar,False,Oil & Gas,IOCL,2026-01-01,2027-08-01,19,2869.5
+P0213,CTR-13,PB,Punjab,Ludhiana,Ludhiana,Ludhiana,north,False,Roads & Highways,State PWD,2022-10-01,2029-01-01,75,205.8
+P0215,CTR-08,MH,Maharashtra,Pune,Pune,Pune,west,False,Roads & Highways,MoRTH,2015-07-01,2018-12-01,41,3496.3
+P0218,CTR-05,TG,Telangana,Warangal,Warangal,Warangal,deccan,False,Waste & Water,State Jal Nigam,2026-03-01,2029-04-01,37,150.0
+P0227,CTR-29,UP,Uttar Pradesh,Varanasi,Varanasi,Varanasi,gangetic,False,Roads & Highways,NHAI,2021-09-01,2023-03-01,18,684.8
+P0231,CTR-30,NL,Nagaland,Kohima,Kohima,Kohima,northeast,False,Roads & Highways,NHAI,2025-10-01,2029-12-01,50,238.1
+P0235,CTR-19,HR,Haryana,Gurugram,Gurugram,Gurugram,north,False,Roads & Highways,NHAI,2023-07-01,2025-08-01,25,983.2
+P0239,CTR-30,WB,West Bengal,Darjeeling,Siliguri,Siliguri,east,False,Roads & Highways,NHAI,2026-03-01,2029-01-01,34,788.3
+P0244,CTR-20,MH,Maharashtra,Nagpur,Nagpur,Nagpur,west,False,Oil & Gas,IOCL,2025-02-01,2026-08-01,18,241.4
+P0247,CTR-18,UP,Uttar Pradesh,Kanpur Nagar,Kanpur,Kanpur,gangetic,False,Roads & Highways,MoRTH,2024-10-01,2027-09-01,35,3952.2
+P0250,CTR-18,UP,Uttar Pradesh,Varanasi,Varanasi,Varanasi,gangetic,False,Railways,Indian Railways,2020-02-01,2025-09-01,67,408.7
+P0260,CTR-14,KA,Karnataka,Dharwad,Hubballi,Hubballi,deccan,False,Roads & Highways,MoRTH,2017-09-01,2019-03-01,18,4714.4
+P0265,CTR-20,HP,Himachal Pradesh,Kangra,Dharamshala,Dharamshala,himalayan,False,Electricity Generation,NTPC,2025-12-01,2028-08-01,32,410.3
+P0275,CTR-03,HR,Haryana,Gurugram,Gurugram,Gurugram,north,False,Waste & Water,CPHEEO,2026-08-01,2028-07-01,23,1659.8
+P0280,CTR-23,JH,Jharkhand,Dhanbad,Dhanbad,Dhanbad,central,False,Railways,IRCON,2023-12-01,2026-10-01,34,415.9
+P0286,CTR-26,RJ,Rajasthan,Jaipur,Jaipur,Jaipur,north-west,False,Roads & Highways,NHAI,2022-10-01,2026-11-01,49,164.8
+P0290,CTR-07,AS,Assam,Dibrugarh,Dibrugarh,Dibrugarh,northeast,False,Railways,RVNL,2025-03-01,2026-09-01,18,150.0
+P0291,CTR-04,ML,Meghalaya,East Khasi Hills,Shillong,Shillong,northeast,False,Roads & Highways,State PWD,2022-09-01,2027-05-01,56,957.8
+P0292,CTR-14,KA,Karnataka,Dharwad,Hubballi,Hubballi,deccan,False,Roads & Highways,NHAI,2023-08-01,2029-03-01,67,305.1
+P0294,CTR-05,MH,Maharashtra,Mumbai Suburban,Mumbai,Mumbai,west,False,Roads & Highways,State PWD,2025-06-01,2027-01-01,19,487.8
+P0298,CTR-22,AP,Andhra Pradesh,Visakhapatnam,Visakhapatnam,Visakhapatnam,coastal,False,Transmission & Distribution,State DISCOM,2015-04-01,2019-03-01,47,6198.5
+P0299,CTR-16,HR,Haryana,Ambala,Ambala,Ambala,north,False,Roads & Highways,NHAI,2025-11-01,2031-01-01,62,728.9
+P0302,CTR-17,NL,Nagaland,Dimapur,Dimapur,Dimapur,northeast,False,Oil & Gas,GAIL,2025-02-01,2026-12-01,22,414.8
+P0306,CTR-16,KA,Karnataka,Dharwad,Hubballi,Hubballi,deccan,False,Railways,IRCON,2019-08-01,2024-11-01,63,639.1
+P0309,CTR-28,UP,Uttar Pradesh,Kanpur Nagar,Kanpur,Kanpur,gangetic,False,Transmission & Distribution,POWERGRID,2025-09-01,2027-12-01,27,1534.1
+P0312,CTR-18,TN,Tamil Nadu,Chennai,Chennai,Chennai,coastal,False,Roads & Highways,NHAI,2020-10-01,2022-06-01,20,839.2
+P0314,CTR-10,RJ,Rajasthan,Jaipur,Jaipur,Jaipur,north-west,False,Oil & Gas,ONGC,2025-10-01,2028-01-01,27,952.8
+P0316,CTR-25,AS,Assam,Cachar,Silchar,Silchar,northeast,False,Roads & Highways,State PWD,2018-10-01,2020-05-01,19,925.2
+P0321,CTR-09,MH,Maharashtra,Nagpur,Nagpur,Nagpur,west,False,Roads & Highways,NHAI,2016-07-01,2022-12-01,77,150.0
+P0323,CTR-11,CT,Chhattisgarh,Bilaspur,Bilaspur,Bilaspur,central,False,Roads & Highways,NHAI,2022-06-01,2025-03-01,33,639.0
+P0326,CTR-20,AP,Andhra Pradesh,NTR,Vijayawada,Vijayawada,coastal,False,Roads & Highways,MoRTH,2024-12-01,2029-02-01,50,763.9
+P0328,CTR-16,LA,Ladakh,Leh,Leh,Leh,himalayan,True,Roads & Highways,MoRTH,2025-09-01,2029-07-01,46,513.0
+P0333,CTR-14,UP,Uttar Pradesh,Varanasi,Varanasi,Varanasi,gangetic,False,Railways,Indian Railways,2018-09-01,2021-02-01,29,1008.1
+P0334,CTR-27,RJ,Rajasthan,Jaipur,Jaipur,Jaipur,north-west,False,Roads & Highways,State PWD,2021-12-01,2027-10-01,70,796.9
+P0338,CTR-18,HP,Himachal Pradesh,Shimla,Shimla,Shimla,himalayan,False,Roads & Highways,MoRTH,2026-02-01,2031-02-01,60,633.4
+P0344,CTR-10,UP,Uttar Pradesh,Varanasi,Varanasi,Varanasi,gangetic,False,Roads & Highways,NHAI,2018-12-01,2025-03-01,75,1379.4
+P0346,CTR-16,KL,Kerala,Thiruvananthapuram,Thiruvananthapuram,Thiruvananthapuram,malabar,False,Roads & Highways,MoRTH,2018-11-01,2023-04-01,53,515.0
+P0351,CTR-23,PB,Punjab,Ludhiana,Ludhiana,Ludhiana,north,False,Roads & Highways,State PWD,2026-04-01,2031-03-01,59,461.6
+P0352,CTR-23,RJ,Rajasthan,Udaipur,Udaipur,Udaipur,north-west,False,Roads & Highways,MoRTH,2022-07-01,2028-11-01,76,917.9
+P0357,CTR-21,GJ,Gujarat,Surat,Surat,Surat,west,False,Healthcare,HITES,2025-07-01,2027-12-01,29,249.5
+P0360,CTR-13,AP,Andhra Pradesh,NTR,Vijayawada,Vijayawada,coastal,False,Waste & Water,CPHEEO,2014-06-01,2020-07-01,73,382.2
+P0361,CTR-09,OD,Odisha,Ganjam,Berhampur,Berhampur,east,False,Roads & Highways,NHAI,2025-10-01,2030-05-01,55,902.9
+P0363,CTR-28,WB,West Bengal,Darjeeling,Siliguri,Siliguri,east,False,Roads & Highways,MoRTH,2026-05-01,2027-11-01,18,155.3
+P0365,CTR-27,AN,Andaman and Nicobar Islands,South Andaman,Sri Vijaya Puram,Sri Vijaya Puram,islands,True,Roads & Highways,NHAI,2023-01-01,2029-04-01,75,315.7
+P0367,CTR-29,WB,West Bengal,Howrah,Howrah,Howrah,east,False,Roads & Highways,State PWD,2019-07-01,2021-01-01,18,1479.9
+P0368,CTR-05,TN,Tamil Nadu,Chennai,Chennai,Chennai,coastal,False,Roads & Highways,MoRTH,2025-11-01,2030-04-01,53,150.0
+P0370,CTR-12,GJ,Gujarat,Surat,Surat,Surat,west,False,Roads & Highways,NHAI,2019-10-01,2024-11-01,61,2242.0
+P0375,CTR-24,GJ,Gujarat,Ahmedabad,Ahmedabad,Ahmedabad,west,False,Roads & Highways,NHAI,2025-04-01,2030-08-01,64,2987.6
+P0381,CTR-01,KA,Karnataka,Bengaluru Urban,Bengaluru,Bengaluru,deccan,False,Roads & Highways,MoRTH,2016-12-01,2020-05-01,41,3425.4
+P0390,CTR-17,GA,Goa,North Goa,Panaji,Panaji,west,False,Roads & Highways,NHAI,2019-05-01,2024-06-01,61,597.5
+P0394,CTR-20,GJ,Gujarat,Vadodara,Vadodara,Vadodara,west,False,Roads & Highways,State PWD,2022-05-01,2024-07-01,26,150.0
+P0396,CTR-09,TG,Telangana,Warangal,Warangal,Warangal,deccan,False,Oil & Gas,IOCL,2018-10-01,2020-11-01,25,150.0
+P0398,CTR-23,MP,Madhya Pradesh,Indore,Indore,Indore,central,False,Transmission & Distribution,POWERGRID,2023-04-01,2026-05-01,37,150.0
+P0404,CTR-07,UP,Uttar Pradesh,Lucknow,Lucknow,Lucknow,gangetic,False,Aviation & Aviation Infrastructure,AAI,2022-04-01,2025-02-01,34,1646.3
+P0405,CTR-15,BR,Bihar,Muzaffarpur,Muzaffarpur,Muzaffarpur,gangetic,False,Roads & Highways,State PWD,2025-02-01,2028-07-01,41,171.9
+P0409,CTR-02,JK,Jammu and Kashmir,Baramulla,Baramulla,Baramulla,himalayan,True,Roads & Highways,State PWD,2020-01-01,2026-02-01,73,624.8
+P0412,CTR-25,UP,Uttar Pradesh,Lucknow,Lucknow,Lucknow,gangetic,False,Oil & Gas,GAIL,2019-12-01,2024-10-01,58,150.0
+P0417,CTR-08,SK,Sikkim,Namchi,Namchi,Namchi,himalayan,False,Roads & Highways,MoRTH,2021-06-01,2025-02-01,44,544.3
+P0422,CTR-11,UT,Uttarakhand,Haridwar,Haridwar,Haridwar,himalayan,False,Roads & Highways,State PWD,2019-03-01,2025-01-01,70,343.8
+P0426,CTR-04,UP,Uttar Pradesh,Kanpur Nagar,Kanpur,Kanpur,gangetic,False,Coal,Coal India Ltd,2016-06-01,2019-09-01,39,150.0
+P0428,CTR-02,KL,Kerala,Ernakulam,Kochi,Kochi,malabar,False,Roads & Highways,NHAI,2022-11-01,2027-04-01,53,167.3
+P0429,CTR-10,UP,Uttar Pradesh,Lucknow,Lucknow,Lucknow,gangetic,False,Roads & Highways,State PWD,2017-03-01,2023-08-01,77,1141.0
+P0430,CTR-01,WB,West Bengal,Kolkata,Kolkata,Kolkata,east,False,Roads & Highways,MoRTH,2023-09-01,2025-09-01,24,301.9
+P0431,CTR-01,CH,Chandigarh,Chandigarh,Chandigarh,Chandigarh,north,True,Roads & Highways,State PWD,2016-09-01,2020-06-01,45,434.7
+P0440,CTR-28,JK,Jammu and Kashmir,Jammu,Jammu,Jammu,himalayan,True,Railways,IRCON,2017-11-01,2024-03-01,76,937.6
+P0444,CTR-15,DL,Delhi,South West Delhi,Dwarka,Dwarka,north,True,Railways,IRCON,2021-12-01,2027-08-01,68,1109.5
+P0447,CTR-15,GJ,Gujarat,Vadodara,Vadodara,Vadodara,west,False,Roads & Highways,MoRTH,2014-08-01,2021-01-01,77,2876.2
+P0448,CTR-01,KA,Karnataka,Mysuru,Mysuru,Mysuru,deccan,False,Roads & Highways,MoRTH,2018-04-01,2023-09-01,65,1082.9
+P0449,CTR-24,SK,Sikkim,Namchi,Namchi,Namchi,himalayan,False,Transmission & Distribution,State DISCOM,2025-07-01,2027-10-01,27,440.5
+P0451,CTR-14,CT,Chhattisgarh,Raipur,Raipur,Raipur,central,False,Roads & Highways,NHAI,2025-06-01,2030-05-01,59,4360.3
+P0453,CTR-10,KA,Karnataka,Bengaluru Urban,Bengaluru,Bengaluru,deccan,False,Roads & Highways,MoRTH,2021-03-01,2027-02-01,71,1177.2
+P0462,CTR-17,AR,Arunachal Pradesh,Papum Pare,Itanagar,Itanagar,himalayan,False,Railways,RVNL,2025-07-01,2027-04-01,21,269.2
+P0464,CTR-12,PY,Puducherry,Puducherry,Puducherry,Puducherry,coastal,True,Transmission & Distribution,State DISCOM,2017-06-01,2019-11-01,29,280.2
+P0465,CTR-15,UP,Uttar Pradesh,Lucknow,Lucknow,Lucknow,gangetic,False,Roads & Highways,MoRTH,2025-03-01,2030-11-01,68,881.9
+P0473,CTR-02,MH,Maharashtra,Nagpur,Nagpur,Nagpur,west,False,Water Resources,CWC,2025-08-01,2027-07-01,23,896.4
+P0481,CTR-27,TG,Telangana,Warangal,Warangal,Warangal,deccan,False,Roads & Highways,MoRTH,2022-07-01,2024-10-01,27,866.3
+P0482,CTR-10,TN,Tamil Nadu,Chennai,Chennai,Chennai,coastal,False,Roads & Highways,NHAI,2021-08-01,2026-08-01,60,758.7
+P0485,CTR-11,AS,Assam,Dibrugarh,Dibrugarh,Dibrugarh,northeast,False,Roads & Highways,State PWD,2023-06-01,2026-01-01,31,1894.6
+P0486,CTR-03,MP,Madhya Pradesh,Jabalpur,Jabalpur,Jabalpur,central,False,Roads & Highways,State PWD,2016-08-01,2022-03-01,67,460.9
+P0487,CTR-16,AR,Arunachal Pradesh,Tawang,Tawang,Tawang,himalayan,False,Roads & Highways,NHAI,2021-09-01,2024-02-01,29,3068.7
+P0493,CTR-19,HP,Himachal Pradesh,Mandi,Mandi,Mandi,himalayan,False,Roads & Highways,MoRTH,2017-11-01,2023-05-01,66,340.3
+P0494,CTR-29,KA,Karnataka,Mysuru,Mysuru,Mysuru,deccan,False,Roads & Highways,State PWD,2024-07-01,2028-06-01,47,150.0
+P0500,CTR-21,RJ,Rajasthan,Jaipur,Jaipur,Jaipur,north-west,False,Roads & Highways,MoRTH,2026-01-01,2030-09-01,56,307.9
+P0512,CTR-30,KA,Karnataka,Dharwad,Hubballi,Hubballi,deccan,False,Transmission & Distribution,POWERGRID,2025-11-01,2028-05-01,30,1295.4
+P0513,CTR-21,BR,Bihar,Muzaffarpur,Muzaffarpur,Muzaffarpur,gangetic,False,Education,CPWD,2022-11-01,2028-08-01,69,805.9
+P0516,CTR-05,KA,Karnataka,Bengaluru Urban,Bengaluru,Bengaluru,deccan,False,Roads & Highways,MoRTH,2025-08-01,2030-02-01,54,645.2
+P0518,CTR-04,OD,Odisha,Ganjam,Berhampur,Berhampur,east,False,Roads & Highways,NHAI,2020-09-01,2023-06-01,33,6908.6
+P0519,CTR-29,OD,Odisha,Khordha,Bhubaneswar,Bhubaneswar,east,False,Transmission & Distribution,State DISCOM,2025-07-01,2027-01-01,18,563.9
+P0522,CTR-04,BR,Bihar,Patna,Patna,Patna,gangetic,False,Railways,Indian Railways,2023-03-01,2029-01-01,70,1271.6
+P0525,CTR-03,UT,Uttarakhand,Dehradun,Dehradun,Dehradun,himalayan,False,Roads & Highways,State PWD,2017-07-01,2019-12-01,29,609.2
+P0531,CTR-26,MH,Maharashtra,Mumbai Suburban,Mumbai,Mumbai,west,False,Roads & Highways,NHAI,2015-12-01,2021-12-01,72,150.0
+P0533,CTR-03,MH,Maharashtra,Nagpur,Nagpur,Nagpur,west,False,Roads & Highways,State PWD,2025-12-01,2030-06-01,54,495.9
+P0536,CTR-20,AN,Andaman and Nicobar Islands,South Andaman,Sri Vijaya Puram,Sri Vijaya Puram,islands,True,Roads & Highways,NHAI,2021-06-01,2027-06-01,72,393.6
+P0539,CTR-29,RJ,Rajasthan,Udaipur,Udaipur,Udaipur,north-west,False,Roads & Highways,MoRTH,2022-05-01,2028-07-01,74,546.5
+P0542,CTR-26,TG,Telangana,Karimnagar,Karimnagar,Karimnagar,deccan,False,Roads & Highways,MoRTH,2024-07-01,2027-06-01,35,1667.9
+P0543,CTR-03,AP,Andhra Pradesh,Guntur,Guntur,Guntur,coastal,False,Railways,IRCON,2024-10-01,2029-12-01,62,244.8
+P0545,CTR-04,TG,Telangana,Hyderabad,Hyderabad,Hyderabad,deccan,False,Railways,IRCON,2016-10-01,2022-06-01,68,859.8
+P0549,CTR-21,AP,Andhra Pradesh,NTR,Vijayawada,Vijayawada,coastal,False,Telecommunication,BSNL,2019-11-01,2023-06-01,43,150.0
+P0569,CTR-09,MH,Maharashtra,Nagpur,Nagpur,Nagpur,west,False,Roads & Highways,State PWD,2025-06-01,2029-03-01,45,1590.3
+P0570,CTR-30,GJ,Gujarat,Surat,Surat,Surat,west,False,Healthcare,CPWD,2022-12-01,2025-10-01,34,153.9
+P0575,CTR-07,AP,Andhra Pradesh,Visakhapatnam,Visakhapatnam,Visakhapatnam,coastal,False,Roads & Highways,NHAI,2019-05-01,2025-01-01,68,185.3
+P0576,CTR-20,KA,Karnataka,Dharwad,Hubballi,Hubballi,deccan,False,Roads & Highways,MoRTH,2024-01-01,2026-10-01,33,150.0
+P0578,CTR-22,GJ,Gujarat,Surat,Surat,Surat,west,False,Roads & Highways,NHAI,2025-07-01,2029-05-01,46,493.8
+P0582,CTR-26,JK,Jammu and Kashmir,Srinagar,Srinagar,Srinagar,himalayan,True,Roads & Highways,NHAI,2022-08-01,2028-06-01,70,186.5
+P0583,CTR-11,UP,Uttar Pradesh,Lucknow,Lucknow,Lucknow,gangetic,False,Railways,RVNL,2024-11-01,2026-07-01,20,197.4
+P0588,CTR-18,WB,West Bengal,Darjeeling,Siliguri,Siliguri,east,False,Roads & Highways,MoRTH,2026-01-01,2027-11-01,22,640.9
+P0589,CTR-10,DL,Delhi,South West Delhi,Dwarka,Dwarka,north,True,Roads & Highways,NHAI,2024-06-01,2030-06-01,72,1349.9
+P0590,CTR-20,AP,Andhra Pradesh,NTR,Vijayawada,Vijayawada,coastal,False,Roads & Highways,NHAI,2015-11-01,2021-09-01,70,340.5
+P0591,CTR-02,KA,Karnataka,Mysuru,Mysuru,Mysuru,deccan,False,Railways,IRCON,2020-07-01,2023-12-01,41,743.1
+P0599,CTR-01,PB,Punjab,Amritsar,Amritsar,Amritsar,north,False,Roads & Highways,MoRTH,2026-07-01,2029-02-01,31,985.2
+P0603,CTR-02,BR,Bihar,Gaya,Gaya,Gaya,gangetic,False,Roads & Highways,State PWD,2023-08-01,2027-07-01,47,964.2
+P0615,CTR-13,MP,Madhya Pradesh,Bhopal,Bhopal,Bhopal,central,False,Roads & Highways,State PWD,2024-10-01,2029-09-01,59,653.8
+P0625,CTR-25,OD,Odisha,Ganjam,Berhampur,Berhampur,east,False,Roads & Highways,State PWD,2022-12-01,2028-12-01,72,250.5
+P0626,CTR-10,CT,Chhattisgarh,Raipur,Raipur,Raipur,central,False,Healthcare,CPWD,2025-04-01,2028-05-01,37,771.6
+P0629,CTR-25,TN,Tamil Nadu,Coimbatore,Coimbatore,Coimbatore,coastal,False,Telecommunication,BSNL,2026-03-01,2028-09-01,30,182.5
+P0631,CTR-07,GJ,Gujarat,Vadodara,Vadodara,Vadodara,west,False,Roads & Highways,State PWD,2025-04-01,2030-09-01,65,150.0
+P0649,CTR-15,BR,Bihar,Patna,Patna,Patna,gangetic,False,Roads & Highways,State PWD,2016-11-01,2023-02-01,75,150.0
+P0652,CTR-19,ML,Meghalaya,Ri Bhoi,Nongpoh,Nongpoh,northeast,False,Roads & Highways,NHAI,2014-12-01,2019-12-01,60,150.0
+P0657,CTR-21,AN,Andaman and Nicobar Islands,North and Middle Andaman,Mayabunder,Mayabunder,islands,True,Telecommunication,BSNL,2025-06-01,2027-07-01,25,1451.9
+P0658,CTR-24,UP,Uttar Pradesh,Kanpur Nagar,Kanpur,Kanpur,gangetic,False,Coal,Coal India Ltd,2025-11-01,2029-06-01,43,150.0
+P0664,CTR-05,DL,Delhi,South West Delhi,Dwarka,Dwarka,north,True,Railways,Indian Railways,2024-07-01,2028-04-01,45,194.1
+P0668,CTR-06,JH,Jharkhand,Ranchi,Ranchi,Ranchi,central,False,Railways,Indian Railways,2019-02-01,2023-01-01,47,466.9
+P0669,CTR-18,UT,Uttarakhand,Haridwar,Haridwar,Haridwar,himalayan,False,Railways,IRCON,2017-06-01,2020-08-01,38,150.0
+P0673,CTR-13,RJ,Rajasthan,Jodhpur,Jodhpur,Jodhpur,north-west,False,Roads & Highways,NHAI,2025-09-01,2027-08-01,23,891.5
+P0675,CTR-08,MH,Maharashtra,Pune,Pune,Pune,west,False,Roads & Highways,NHAI,2014-01-01,2020-03-01,74,199.3
+P0678,CTR-09,WB,West Bengal,Kolkata,Kolkata,Kolkata,east,False,Roads & Highways,NHAI,2024-04-01,2027-02-01,34,858.3
+P0688,CTR-17,CT,Chhattisgarh,Durg,Bhilai,Bhilai,central,False,Coal,Coal India Ltd,2025-04-01,2028-01-01,33,2005.3
+P0693,CTR-25,AP,Andhra Pradesh,NTR,Vijayawada,Vijayawada,coastal,False,Railways,RVNL,2022-06-01,2026-07-01,49,177.2
+P0697,CTR-09,MH,Maharashtra,Mumbai Suburban,Mumbai,Mumbai,west,False,Transmission & Distribution,State DISCOM,2024-07-01,2027-05-01,34,1182.4
+P0709,CTR-16,HP,Himachal Pradesh,Kangra,Dharamshala,Dharamshala,himalayan,False,Roads & Highways,NHAI,2024-11-01,2027-09-01,34,1292.4
+P0711,CTR-09,KA,Karnataka,Bengaluru Urban,Bengaluru,Bengaluru,deccan,False,Roads & Highways,State PWD,2025-09-01,2029-05-01,44,501.5
+P0714,CTR-23,HR,Haryana,Faridabad,Faridabad,Faridabad,north,False,Roads & Highways,NHAI,2022-11-01,2028-12-01,73,1129.3
+P0718,CTR-12,PB,Punjab,Ludhiana,Ludhiana,Ludhiana,north,False,Roads & Highways,NHAI,2025-07-01,2029-10-01,51,458.7
+P0730,CTR-09,AS,Assam,Cachar,Silchar,Silchar,northeast,False,Railways,IRCON,2024-10-01,2027-07-01,33,1765.9
+P0731,CTR-13,DH,Dadra and Nagar Haveli and Daman and Diu,Diu,Diu,Diu,west,True,Roads & Highways,NHAI,2012-10-01,2019-02-01,76,241.6
+P0734,CTR-16,OD,Odisha,Cuttack,Cuttack,Cuttack,east,False,Coal,MCL,2023-08-01,2025-11-01,27,1094.1
+P0739,CTR-21,DL,Delhi,New Delhi,New Delhi,New Delhi,north,True,Roads & Highways,State PWD,2016-04-01,2022-08-01,76,253.8
+P0741,CTR-28,MH,Maharashtra,Mumbai Suburban,Mumbai,Mumbai,west,False,Urban Public Transport,State Metro Corp,2017-01-01,2022-05-01,64,2878.1
+P0743,CTR-22,UP,Uttar Pradesh,Lucknow,Lucknow,Lucknow,gangetic,False,Roads & Highways,State PWD,2025-02-01,2027-08-01,30,197.3
+P0744,CTR-12,MH,Maharashtra,Mumbai Suburban,Mumbai,Mumbai,west,False,Roads & Highways,MoRTH,2025-03-01,2027-06-01,27,1278.3
+P0745,CTR-13,GJ,Gujarat,Vadodara,Vadodara,Vadodara,west,False,Real Estate,HUDCO,2024-08-01,2027-06-01,34,460.7
+P0751,CTR-29,AS,Assam,Dibrugarh,Dibrugarh,Dibrugarh,northeast,False,Healthcare,CPWD,2018-02-01,2022-06-01,52,452.2
+P0756,CTR-07,WB,West Bengal,Howrah,Howrah,Howrah,east,False,Roads & Highways,NHAI,2019-05-01,2020-11-01,18,3037.5
+P0768,CTR-23,UP,Uttar Pradesh,Varanasi,Varanasi,Varanasi,gangetic,False,Roads & Highways,State PWD,2019-08-01,2025-03-01,67,150.0
+P0774,CTR-15,GJ,Gujarat,Ahmedabad,Ahmedabad,Ahmedabad,west,False,Railways,RVNL,2017-02-01,2019-12-01,34,694.3
+P0777,CTR-17,TN,Tamil Nadu,Chennai,Chennai,Chennai,coastal,False,Roads & Highways,State PWD,2018-06-01,2021-11-01,41,371.6
+P0778,CTR-19,CT,Chhattisgarh,Bilaspur,Bilaspur,Bilaspur,central,False,Roads & Highways,State PWD,2024-11-01,2030-06-01,67,1350.2
+P0779,CTR-03,MP,Madhya Pradesh,Bhopal,Bhopal,Bhopal,central,False,Healthcare,State Health Dept,2025-01-01,2028-12-01,47,948.3
+P0783,CTR-22,CT,Chhattisgarh,Raipur,Raipur,Raipur,central,False,Roads & Highways,State PWD,2019-11-01,2025-05-01,66,1995.6
+P0787,CTR-04,PY,Puducherry,Puducherry,Puducherry,Puducherry,coastal,True,Roads & Highways,State PWD,2021-08-01,2024-11-01,39,213.4
+P0789,CTR-20,ML,Meghalaya,Ri Bhoi,Nongpoh,Nongpoh,northeast,False,Railways,IRCON,2025-12-01,2028-10-01,34,396.7
+P0794,CTR-24,TN,Tamil Nadu,Coimbatore,Coimbatore,Coimbatore,coastal,False,Roads & Highways,NHAI,2025-02-01,2027-12-01,34,1731.8
+P0800,CTR-17,AS,Assam,Dibrugarh,Dibrugarh,Dibrugarh,northeast,False,Roads & Highways,NHAI,2018-08-01,2023-10-01,62,2041.7
+P0801,CTR-19,TG,Telangana,Warangal,Warangal,Warangal,deccan,False,Roads & Highways,NHAI,2020-11-01,2026-08-01,69,1576.1
+P0807,CTR-13,HR,Haryana,Ambala,Ambala,Ambala,north,False,Electricity Generation,NTPC,2021-10-01,2027-10-01,72,249.0
+P0809,CTR-18,HR,Haryana,Faridabad,Faridabad,Faridabad,north,False,Roads & Highways,NHAI,2022-09-01,2025-06-01,33,330.7
+P0820,CTR-03,UP,Uttar Pradesh,Lucknow,Lucknow,Lucknow,gangetic,False,Roads & Highways,NHAI,2021-11-01,2026-12-01,61,365.5
+P0826,CTR-03,RJ,Rajasthan,Jodhpur,Jodhpur,Jodhpur,north-west,False,Roads & Highways,State PWD,2018-08-01,2020-10-01,26,289.4
+P0827,CTR-22,RJ,Rajasthan,Jodhpur,Jodhpur,Jodhpur,north-west,False,Roads & Highways,State PWD,2025-09-01,2030-07-01,58,382.8
+P0829,CTR-13,RJ,Rajasthan,Jaipur,Jaipur,Jaipur,north-west,False,Roads & Highways,MoRTH,2025-04-01,2027-04-01,24,214.0
+P0832,CTR-30,AP,Andhra Pradesh,Visakhapatnam,Visakhapatnam,Visakhapatnam,coastal,False,Roads & Highways,State PWD,2018-11-01,2025-03-01,76,150.0
+P0834,CTR-29,GA,Goa,North Goa,Panaji,Panaji,west,False,Roads & Highways,State PWD,2016-07-01,2022-10-01,75,561.3
+P0837,CTR-30,OD,Odisha,Ganjam,Berhampur,Berhampur,east,False,Roads & Highways,State PWD,2021-09-01,2026-06-01,57,164.0
+P0843,CTR-26,BR,Bihar,Patna,Patna,Patna,gangetic,False,Oil & Gas,IOCL,2022-10-01,2025-10-01,36,925.3
+P0845,CTR-09,OD,Odisha,Cuttack,Cuttack,Cuttack,east,False,Coal,Coal India Ltd,2019-12-01,2024-12-01,60,1068.2
+P0850,CTR-30,TN,Tamil Nadu,Coimbatore,Coimbatore,Coimbatore,coastal,False,Roads & Highways,NHAI,2025-01-01,2028-03-01,38,1617.5
+P0857,CTR-27,PB,Punjab,Jalandhar,Jalandhar,Jalandhar,north,False,Railways,IRCON,2020-10-01,2023-09-01,35,449.9
+P0862,CTR-21,AS,Assam,Dibrugarh,Dibrugarh,Dibrugarh,northeast,False,Roads & Highways,NHAI,2019-02-01,2022-02-01,36,279.9
+P0874,CTR-25,TG,Telangana,Karimnagar,Karimnagar,Karimnagar,deccan,False,Transmission & Distribution,State DISCOM,2026-03-01,2029-03-01,36,199.1
+P0885,CTR-23,KA,Karnataka,Bengaluru Urban,Bengaluru,Bengaluru,deccan,False,Roads & Highways,MoRTH,2023-08-01,2028-09-01,61,391.0
+P0891,CTR-06,MH,Maharashtra,Mumbai Suburban,Mumbai,Mumbai,west,False,Railways,Indian Railways,2026-06-01,2027-12-01,18,213.0
+P0894,CTR-29,TG,Telangana,Hyderabad,Hyderabad,Hyderabad,deccan,False,Roads & Highways,MoRTH,2018-12-01,2023-07-01,55,305.8
+P0895,CTR-04,JK,Jammu and Kashmir,Baramulla,Baramulla,Baramulla,himalayan,True,Roads & Highways,NHAI,2025-01-01,2030-08-01,67,273.7
+P0897,CTR-16,AP,Andhra Pradesh,Visakhapatnam,Visakhapatnam,Visakhapatnam,coastal,False,Electricity Generation,State Genco,2020-12-01,2024-09-01,45,1513.2

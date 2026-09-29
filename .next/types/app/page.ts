@@ -1,4 +1,4 @@
-// File: C:\Users\LENOVO\Desktop\nirman-ai-dashboard\NIRMAN.gov\app\page.tsx
+// File: C:\Users\LENOVO\OneDrive\문서\DESKTOP-2\WEB DEV\NEXT_JS\SIH-NIRMAN\nirman\app\page.jsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

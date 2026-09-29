@@ -1,4 +1,10 @@
 {
-  "/page": "app/page.js",
-  "/icon.svg/route": "app/icon.svg/route.js"
+  "/risk-radar/page": "app/risk-radar/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/project-map/page": "app/project-map/page.js",
+  "/simulator/page": "app/simulator/page.js",
+  "/contractors/page": "app/contractors/page.js",
+  "/early-warning/page": "app/early-warning/page.js",
+  "/analytics/page": "app/analytics/page.js"
 }

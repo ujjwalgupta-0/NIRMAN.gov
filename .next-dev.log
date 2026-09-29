@@ -1,0 +1,158 @@
+
+> nirman-frontend@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 4.3s
+ ○ Compiling / ...
+ ✓ Compiled / in 3.5s (553 modules)
+ GET / 307 in 3976ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 6.3s (1605 modules)
+ GET /dashboard 200 in 307ms
+ ○ Compiling /icon.svg ...
+ ✓ Compiled /icon.svg in 4.1s (850 modules)
+ GET /icon.svg?239283501f13b947 200 in 3281ms
+ GET /icon.svg 200 in 5005ms
+ GET /dashboard 200 in 499ms
+ ○ Compiling /risk-radar ...
+ ✓ Compiled /risk-radar in 4.1s (1605 modules)
+ ✓ Compiled in 6.1s (1600 modules)
+ ○ Compiling /project-map ...
+ ✓ Compiled /project-map in 3.4s (1606 modules)
+ ✓ Compiled /risk-radar in 445ms (821 modules)
+ ○ Compiling /simulator ...
+ ✓ Compiled /simulator in 1638ms (1615 modules)
+ GET /simulator 200 in 455ms
+ GET /simulator 200 in 79ms
+ ○ Compiling /icon.svg ...
+ ✓ Compiled /icon.svg in 2.5s (848 modules)
+ GET /icon.svg?239283501f13b947 200 in 1866ms
+ GET /icon.svg 200 in 2763ms
+ ✓ Compiled /risk-radar in 360ms (852 modules)
+ GET /dashboard?fresh=1 200 in 659ms
+ ✓ Compiled in 5.4s (1615 modules)
+ GET /risk-radar 200 in 435ms
+ ○ Compiling /icon.svg ...
+ ✓ Compiled /icon.svg in 2.3s (852 modules)
+ GET /icon.svg?239283501f13b947 200 in 1557ms
+ GET /icon.svg 200 in 2537ms
+ ○ Compiling /projects/[id] ...
+ ✓ Compiled /projects/[id] in 1557ms (1653 modules)
+ ✓ Compiled in 2.9s (1637 modules)
+ ✓ Compiled in 7.3s (1639 modules)
+ ✓ Compiled in 7.1s (1639 modules)
+ ✓ Compiled in 1887ms (1625 modules)
+ ✓ Compiled in 1646ms (1639 modules)
+ ✓ Compiled in 3s (1639 modules)
+ ✓ Compiled in 2.7s (1639 modules)
+ GET /projects/P0005 200 in 374ms
+ GET /simulator 200 in 99ms
+ GET /risk-radar 200 in 105ms
+ ○ Compiling /projects ...
+ ✓ Compiled /projects in 4.7s (1633 modules)
+ ○ Compiling /project-map ...
+ ✓ Compiled /project-map in 7.1s (837 modules)
+ ✓ Compiled in 2.4s (1651 modules)
+ ✓ Compiled in 928ms (1651 modules)
+ ✓ Compiled in 1872ms (1647 modules)
+ ○ Compiling /contractors ...
+ ✓ Compiled /contractors in 1267ms (1641 modules)
+ ✓ Compiled in 23.4s (1650 modules)
+ ✓ Compiled in 1853ms (817 modules)
+ ✓ Compiled in 6.8s (1650 modules)
+ ✓ Compiled in 2.2s (1650 modules)
+ ○ Compiling /projects/[id] ...
+ ✓ Compiled /projects/[id] in 536ms (838 modules)
+ GET /projects/P0005 200 in 1128ms
+ GET /simulator 200 in 96ms
+ ✓ Compiled in 2.4s (1651 modules)
+ ✓ Compiled in 1999ms (817 modules)
+ ✓ Compiled in 1238ms (817 modules)
+ ✓ Compiled in 1004ms (817 modules)
+ ✓ Compiled in 890ms (817 modules)
+ ○ Compiling /project-map ...
+ ✓ Compiled /project-map in 2.6s (838 modules)
+ GET /project-map 200 in 3017ms
+ ✓ Compiled in 1913ms (1655 modules)
+ ✓ Compiled in 1665ms (1651 modules)
+ ✓ Compiled in 1088ms (817 modules)
+ ○ Compiling /project-map ...
+ ✓ Compiled /project-map in 602ms (838 modules)
+ GET /project-map 200 in 1021ms
+ ✓ Compiled in 1620ms (1655 modules)
+ ○ Compiling /settings ...
+ ✓ Compiled /settings in 1087ms (1643 modules)
+ ✓ Compiled in 1459ms (1135 modules)
+ ✓ Compiled in 1392ms (1135 modules)
+ GET /projects/P0005 200 in 316ms
+ ✓ Compiled in 819ms (1135 modules)
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 1476ms (1657 modules)
+ ○ Compiling /project-map ...
+ ✓ Compiled /project-map in 606ms (838 modules)
+ ✓ Compiled in 1312ms (1652 modules)
+ ✓ Compiled /simulator in 432ms (837 modules)
+ GET /simulator 200 in 952ms
+ ✓ Compiled in 1024ms (1641 modules)
+ ○ Compiling /early-warning ...
+ ✓ Compiled /early-warning in 1494ms (1633 modules)
+ ✓ Compiled in 2.1s (1647 modules)
+ ○ Compiling /projects/[id] ...
+ ✓ Compiled /projects/[id] in 1416ms (1644 modules)
+ GET /projects/P0005 200 in 298ms
+ ✓ Compiled in 480ms (1658 modules)
+ GET /project-map 200 in 330ms
+ ○ Compiling / ...
+ ✓ Compiled / in 809ms (837 modules)
+ GET / 307 in 1355ms
+ GET /dashboard 200 in 559ms
+ ✓ Compiled in 6.4s (1650 modules)
+ ✓ Compiled in 3.7s (1650 modules)
+ ✓ Compiled in 7.3s (1650 modules)
+ ✓ Compiled in 2s (1650 modules)
+ ✓ Compiled in 1349ms (821 modules)
+ ✓ Compiled in 1879ms (1650 modules)
+ ✓ Compiled in 319ms (821 modules)
+ ✓ Compiled in 1158ms (1650 modules)
+ ✓ Compiled in 360ms (1650 modules)
+ ✓ Compiled in 1098ms (1636 modules)
+ ✓ Compiled in 260ms (821 modules)
+ ✓ Compiled in 264ms (821 modules)
+ ✓ Compiled in 1245ms (821 modules)
+ ✓ Compiled in 1028ms (821 modules)
+ ✓ Compiled in 285ms (821 modules)
+ ✓ Compiled in 268ms (821 modules)
+ ✓ Compiled in 210ms (821 modules)
+ ✓ Compiled in 983ms (821 modules)
+ ✓ Compiled in 859ms (821 modules)
+ ✓ Compiled in 859ms (821 modules)
+ ✓ Compiled in 4s (1650 modules)
+ ✓ Compiled in 354ms (1650 modules)
+ ✓ Compiled in 1559ms (1650 modules)
+ ✓ Compiled in 1282ms (1650 modules)
+ ✓ Compiled in 317ms (1650 modules)
+ ✓ Compiled in 1360ms (1650 modules)
+ ✓ Compiled in 330ms (1650 modules)
+ ✓ Compiled in 319ms (1650 modules)
+ ✓ Compiled in 1779ms (1650 modules)
+ ✓ Compiled in 1291ms (1650 modules)
+ ✓ Compiled in 5.1s (1650 modules)
+ ✓ Compiled in 409ms (821 modules)
+ ✓ Compiled in 346ms (821 modules)
+ ✓ Compiled in 1255ms (821 modules)
+ ✓ Compiled in 1036ms (1650 modules)
+ ✓ Compiled in 2.2s (1650 modules)
+ ✓ Compiled in 1415ms (1650 modules)
+ ✓ Compiled in 329ms (821 modules)
+ ✓ Compiled in 351ms (821 modules)
+ ✓ Compiled in 1240ms (821 modules)
+ ✓ Compiled in 1451ms (821 modules)
+ ✓ Compiled in 10.1s (1650 modules)
+ ✓ Compiled in 2.7s (1650 modules)
+ ✓ Compiled in 3.6s (1650 modules)
+ ✓ Compiled in 2.3s (1650 modules)
