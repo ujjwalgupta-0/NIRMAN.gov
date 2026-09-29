@@ -48,11 +48,11 @@ export const Metric = ({ label, value, sub }) => (
 );
 
 export const RiskBadge = ({ band, size = "sm" }) => {
-  const s = BAND_STYLE[band];
+  const s = BAND_STYLE[band] ?? BAND_STYLE.GREEN;
   return (
     <span className={`inline-flex items-center gap-1.5 rounded-full border ${s.border} ${s.soft} ${s.text} font-semibold ${size === "lg" ? "px-3 py-1 text-sm" : "px-2 py-0.5 text-xs"}`}>
       <span className={`h-1.5 w-1.5 rounded-full ${s.bg}`} aria-hidden />
-      {band}
+      {s.label}
     </span>
   );
 };

@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import RiskMeter from "@/components/risk/RiskMeter";
-import { band, HEX, THRESHOLDS } from "@/lib/risk";
+import { band, BAND_STYLE, HEX, THRESHOLDS } from "@/lib/risk";
 import { calculateRiskIndices } from "@/lib/risk-engine.mjs";
 
 const SECTIONS = [
@@ -53,6 +53,7 @@ const BASELINE = (project) => {
 };
 const clamp = (value, min, max) => Math.min(max, Math.max(min, value));
 const formatValue = (value) => Number.isFinite(Number(value)) ? Number(value).toLocaleString("en-IN", { maximumFractionDigits: 1 }) : String(value ?? "Unavailable");
+const bandLabel = (risk) => BAND_STYLE[band(risk)]?.label ?? BAND_STYLE.GREEN.label;
 const FORECASTS = [
   ["delay6", "Schedule · 6 months", "delayRisk6m"],
   ["delay12", "Schedule · 12 months", "delayRisk12m"],
@@ -81,10 +82,11 @@ const dialArc = (start, end, radius = 40) => {
 
 function HeadlineMeter({ label, value }) {
   const level = band(value);
+  const levelLabel = BAND_STYLE[level]?.label ?? BAND_STYLE.GREEN.label;
   return <div className="rounded-lg border border-slate-200 bg-white p-2.5">
-    <div className="flex items-center justify-between gap-2"><p className="text-[10px] font-bold uppercase tracking-wide text-slate-500">{label}</p><span className="text-[10px] font-bold text-slate-500">{level}</span></div>
+    <div className="flex items-center justify-between gap-2"><p className="text-[10px] font-bold uppercase tracking-wide text-slate-500">{label}</p><span className="text-[10px] font-bold text-slate-500">{levelLabel}</span></div>
     <p className="mt-0.5 text-2xl font-black tabular-nums text-slate-950">{value.toFixed(1)}%</p>
-    <svg viewBox="0 0 120 76" className="mt-1 w-full" role="meter" aria-label={`${label}: ${value.toFixed(1)} percent, ${level} risk`} aria-valuemin={0} aria-valuemax={100} aria-valuenow={value}>
+    <svg viewBox="0 0 120 76" className="mt-1 w-full" role="meter" aria-label={`${label}: ${value.toFixed(1)} percent, ${levelLabel} risk`} aria-valuemin={0} aria-valuemax={100} aria-valuenow={value}>
       <path d={dialArc(0, 100)} fill="none" stroke="#e2e8f0" strokeWidth="9" strokeLinecap="round" />
       <path d={dialArc(0, THRESHOLDS.amber)} fill="none" stroke="#22c55e" strokeWidth="7" />
       <path d={dialArc(THRESHOLDS.amber, THRESHOLDS.red)} fill="none" stroke="#f59e0b" strokeWidth="7" />
@@ -174,7 +176,7 @@ export default function WhatIfSimulator({ baseline }) {
         <div className="border-b border-slate-200 bg-slate-50 p-3"><p className="text-[10px] font-extrabold uppercase tracking-[0.16em] text-gov-800">Submitted scenario report</p><h3 className="mt-0.5 text-lg font-black text-slate-950">{staleReport ? "Report ready · newer edits not submitted" : "Scenario risk outlook"}</h3><p className="mt-1 text-xs text-slate-600">{reportChanged.length} parameter{reportChanged.length === 1 ? "" : "s"} changed.</p></div>
         <div className="space-y-3 p-3">
           <div className="grid grid-cols-2 gap-2"><HeadlineMeter label="Baseline headline" value={baseline?.risk ?? baselineScores.headline} /><HeadlineMeter label="Scenario headline" value={reportScores.headline} /></div>
-          <div className={`rounded-lg border p-3 ${reportScores.headline > (baseline?.risk ?? baselineScores.headline) + 0.05 ? "border-rose-200 bg-rose-50" : reportScores.headline < (baseline?.risk ?? baselineScores.headline) - 0.05 ? "border-emerald-200 bg-emerald-50" : "border-slate-200 bg-slate-50"}`}><p className="text-xs font-bold">{reportScores.headline > (baseline?.risk ?? baselineScores.headline) + 0.05 ? "Risk elevation" : reportScores.headline < (baseline?.risk ?? baselineScores.headline) - 0.05 ? "Risk reduction" : "No material headline change"}</p><p className="mt-0.5 text-lg font-black tabular-nums">{reportScores.headline > (baseline?.risk ?? baselineScores.headline) ? "+" : ""}{(reportScores.headline - (baseline?.risk ?? baselineScores.headline)).toFixed(1)} index points <span className="text-xs font-semibold text-slate-600">· {band(reportScores.headline) === band(baseline?.risk ?? baselineScores.headline) ? `${band(reportScores.headline)} level unchanged` : `${band(baseline?.risk ?? baselineScores.headline)} → ${band(reportScores.headline)}`}</span></p><p className="mt-0.5 text-[10px] text-slate-600">Index points, not probability percentage points.</p></div>
+          <div className={`rounded-lg border p-3 ${reportScores.headline > (baseline?.risk ?? baselineScores.headline) + 0.05 ? "border-rose-200 bg-rose-50" : reportScores.headline < (baseline?.risk ?? baselineScores.headline) - 0.05 ? "border-emerald-200 bg-emerald-50" : "border-slate-200 bg-slate-50"}`}><p className="text-xs font-bold">{reportScores.headline > (baseline?.risk ?? baselineScores.headline) + 0.05 ? "Risk elevation" : reportScores.headline < (baseline?.risk ?? baselineScores.headline) - 0.05 ? "Risk reduction" : "No material headline change"}</p><p className="mt-0.5 text-lg font-black tabular-nums">{reportScores.headline > (baseline?.risk ?? baselineScores.headline) ? "+" : ""}{(reportScores.headline - (baseline?.risk ?? baselineScores.headline)).toFixed(1)} index points <span className="text-xs font-semibold text-slate-600">· {band(reportScores.headline) === band(baseline?.risk ?? baselineScores.headline) ? `${bandLabel(reportScores.headline)} level unchanged` : `${bandLabel(baseline?.risk ?? baselineScores.headline)} → ${bandLabel(reportScores.headline)}`}</span></p><p className="mt-0.5 text-[10px] text-slate-600">Index points, not probability percentage points.</p></div>
           <div><p className="mb-1.5 text-[10px] font-extrabold uppercase tracking-[0.14em] text-slate-600">Updated forecasts</p><div className="grid grid-cols-2 gap-1.5">{FORECASTS.map(([key, label, baselineKey]) => <ScoreTile key={key} label={label} before={baseline?.[baselineKey] ?? baselineScores[key]} after={reportScores[key]} />)}</div></div>
           <div className="grid gap-2 sm:grid-cols-2"><div className="rounded-lg border border-rose-200 bg-rose-50 p-2.5"><h4 className="text-xs font-extrabold text-rose-800">Top pressure drivers</h4>{reportOutliers.filter((field) => field.effect > 0.05).slice(0, 4).length ? <ul className="mt-1.5 space-y-1">{reportOutliers.filter((field) => field.effect > 0.05).slice(0, 4).map((field) => <li key={field.key} className="flex justify-between gap-2 text-[10px]"><span className="text-slate-700">{field.label}</span><strong className="shrink-0 tabular-nums text-rose-800">+{field.effect.toFixed(1)}</strong></li>)}</ul> : <p className="mt-1 text-[10px] text-slate-600">No changed input added pressure.</p>}</div><div className="rounded-lg border border-emerald-200 bg-emerald-50 p-2.5"><h4 className="text-xs font-extrabold text-emerald-800">Protective changes</h4>{reportOutliers.filter((field) => field.effect < -0.05).slice(0, 4).length ? <ul className="mt-1.5 space-y-1">{reportOutliers.filter((field) => field.effect < -0.05).slice(0, 4).map((field) => <li key={field.key} className="flex justify-between gap-2 text-[10px]"><span className="text-slate-700">{field.label}</span><strong className="shrink-0 tabular-nums text-emerald-800">{field.effect.toFixed(1)}</strong></li>)}</ul> : <p className="mt-1 text-[10px] text-slate-600">No changed input lowered risk.</p>}</div></div>
           {reportChanged.length > 0 && <details className="rounded-lg border border-slate-200 bg-white p-2.5"><summary className="cursor-pointer text-xs font-bold">Review {reportChanged.length} submitted changes</summary><div className="mt-2 divide-y divide-slate-200">{reportChanged.map((field) => <div key={field.key} className="flex flex-wrap justify-between gap-x-3 gap-y-1 py-1.5 text-[10px]"><span className="text-slate-600">{field.label}</span><strong className="tabular-nums">{formatValue(field.base)} → {formatValue(submitted[field.key])} {field.unit}</strong></div>)}</div></details>}
