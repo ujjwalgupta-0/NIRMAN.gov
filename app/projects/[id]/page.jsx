@@ -1,6 +1,7 @@
 "use client";
 import { Suspense } from "react";
 import { useSearchParams } from "next/navigation";
+import Link from "next/link";
 import { getProject } from "@/lib/api";
 import useData from "@/lib/useData";
 import { ErrorState, Loading, RiskBadge } from "@/components/ui";
@@ -28,6 +29,12 @@ function ProjectPageContent({ params }) {
   const { id } = params;
   const { data: project, error, loading, retry } = useData(() => getProject(id), [id]);
   if (loading) return <Loading rows={8} />;
+  if (error?.startsWith("Project ") && error.includes("is not in the currently loaded project data")) return <div className="mx-auto max-w-3xl rounded-2xl border border-amber-200 bg-amber-50 p-5 sm:p-6">
+    <p className="text-xs font-bold uppercase tracking-wide text-amber-800">Project unavailable</p>
+    <h1 className="mt-1 text-xl font-bold text-slate-950">This project is not in the current data snapshot</h1>
+    <p className="mt-2 text-sm text-slate-700">The project ID may belong to a different imported dataset. Browse the projects in the active snapshot, or check Data settings to restore the bundled demo data.</p>
+    <div className="mt-4 flex flex-wrap gap-2"><Link href="/projects" className="btn-primary rounded-lg">Browse projects</Link><Link href="/settings" className="btn-ghost rounded-lg bg-white">Data settings</Link></div>
+  </div>;
   if (error) return <ErrorState message={error} retry={retry} />;
 
   const riskTarget = searchParams.get("riskTarget");
@@ -58,10 +65,15 @@ function ProjectPageContent({ params }) {
     ["Milestones", [percent(inputs.milestoneCompletion) && `${percent(inputs.milestoneCompletion)} complete`, percent(inputs.milestoneOnTime) && `${percent(inputs.milestoneOnTime)} on time`].filter(Boolean).join(" · ")],
     ["Budget plan", [amount(inputs.plannedCost) && `${amount(inputs.plannedCost)} planned`, percent(inputs.costOverrunToDate) && `${percent(inputs.costOverrunToDate)} overrun`, amount(inputs.budgetExceeded) && `${amount(inputs.budgetExceeded)} exceeded`].filter(Boolean).join(" · ")],
     ["Materials / rework", [percent(inputs.materialPass) && `${percent(inputs.materialPass)} material pass rate`, percent(inputs.reworkPct) && `${percent(inputs.reworkPct)} rework`].filter(Boolean).join(" · ")],
-    ["Contractor record", [value(inputs.contractorHistory, (item) => `${item} completed projects`), percent(inputs.contractorDelayRate) && `${percent(inputs.contractorDelayRate)} historical delay`, value(inputs.contractorDelayMonths, (item) => `${item} months average delay`), percent(inputs.contractorCostOverrunRate) && `${percent(inputs.contractorCostOverrunRate)} historical cost overrun`].filter(Boolean).join(" · ")],
     ["Site conditions", [inputs.climateRegion && inputs.climateRegion !== "Unavailable" ? inputs.climateRegion : null, percent(inputs.rainfallPct) && `${percent(inputs.rainfallPct)} of normal rainfall`, value(inputs.monsoonDaysThisMonth, (item) => `${item} monsoon days`)].filter(Boolean).join(" · ")],
     ["Forecast warning", project.warningType]
   ].filter(([, item]) => item != null && item !== "");
+  const contractorFacts = [
+    value(inputs.contractorHistory, (item) => `${item} completed ${item === 1 ? "project" : "projects"}`),
+    percent(inputs.contractorDelayRate) && `${percent(inputs.contractorDelayRate)} historical delay`,
+    value(inputs.contractorDelayMonths, (item) => `${item} months average delay`),
+    percent(inputs.contractorCostOverrunRate) && `${percent(inputs.contractorCostOverrunRate)} historical cost overrun`
+  ].filter(Boolean);
 
   return <div className="mx-auto max-w-6xl">
     <header className="border-b border-ink-200 pb-4">
@@ -104,6 +116,13 @@ function ProjectPageContent({ params }) {
               </dl>
             </details>}
           </section>
+          {contractorFacts.length > 0 && <section className="rounded-xl border border-indigo-200 bg-gradient-to-r from-indigo-50 via-white to-sky-50 p-3 shadow-sm">
+            <p className="text-sm font-extrabold text-indigo-800">Contractor record</p>
+            <h3 className="mt-1 text-base font-bold text-slate-950">{inputs.contractorName || "Contractor work history"}{inputs.contractorId ? <span className="ml-1.5 text-sm font-semibold text-slate-500">· {inputs.contractorId}</span> : null}</h3>
+            <ul className="mt-2 space-y-1.5">
+              {contractorFacts.map((fact) => <li key={fact} className="flex items-start gap-2 text-sm leading-snug text-slate-700"><span aria-hidden="true" className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-indigo-500" />{fact}</li>)}
+            </ul>
+          </section>}
         </div>
         <div className="min-w-0 rounded-xl border border-ink-200 bg-white p-3 sm:p-4">
           <RiskFactors project={project} />
