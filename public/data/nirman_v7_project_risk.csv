@@ -1,67 +1,67 @@
 project_id,project_name,sector_name,executing_agency,state_name,district,snapshot_date,planned_progress_pct,actual_progress_pct,months_to_planned_completion,spend_pct_of_budget,cost_overrun_6m,cost_overrun_12m,delay_6m,delay_12m,max_risk,risk_band,warning_type
 P0005,Roads & Highways · Visakhapatnam · Project P0005,Roads & Highways,NHAI,Andhra Pradesh,Visakhapatnam,2026-09-01,78.53,71.01,14,78.219321,0.313679,0.375637,0.368643,0.448134,0.448134,Elevated,active project
-P0007,Roads & Highways · Jodhpur · Project P0007,Roads & Highways,State PWD,Rajasthan,Jodhpur,2021-12-01,100,100,0,110.353053,0.350231,0.414747,0.322978,0.398817,0.414747,Elevated,historical snapshot · completed
+P0007,Roads & Highways · Jodhpur · Project P0007,Roads & Highways,State PWD,Rajasthan,Jodhpur,2021-12-01,100,100,0,110.353053,0.350231,0.414747,0.322978,0.398817,0.414747,Elevated,· completed
 P0010,Roads & Highways · Muzaffarpur · Project P0010,Roads & Highways,State PWD,Bihar,Muzaffarpur,2026-09-01,49.08,46.96,36,46.415212,0.15696,0.207947,0.267708,0.339125,0.339125,Stable,active project
-P0023,Railways · Thiruvananthapuram · Project P0023,Railways,IRCON,Kerala,Thiruvananthapuram,2021-09-01,100,100,-1,109.93109,0.407058,0.475552,0.342069,0.419435,0.475552,Elevated,historical snapshot · completed
+P0023,Railways · Thiruvananthapuram · Project P0023,Railways,IRCON,Kerala,Thiruvananthapuram,2021-09-01,100,100,-1,109.93109,0.407058,0.475552,0.342069,0.419435,0.475552,Elevated,· completed
 P0025,Railways · NTR · Project P0025,Railways,RVNL,Andhra Pradesh,NTR,2026-09-01,95.06,93,6,112.775735,0.660312,0.746533,0.443183,0.528638,0.746533,Elevated,deadline within 6 months
-P0029,Roads & Highways · Kolkata · Project P0029,Roads & Highways,State PWD,West Bengal,Kolkata,2021-01-01,100,100,-3,102.714646,0.199486,0.25345,0.409756,0.492536,0.492536,Elevated,historical snapshot · completed
-P0030,Aviation & Aviation Infrastructure · Surat · Project P0030,Aviation & Aviation Infrastructure,AAI,Gujarat,Surat,2021-01-01,100,100,-3,112.013115,0.464779,0.537314,0.40326,0.485521,0.537314,Elevated,historical snapshot · completed
-P0031,Roads & Highways · Faridabad · Project P0031,Roads & Highways,State PWD,Haryana,Faridabad,2022-04-01,100,100,0,96.029753,0.08782,0.133967,0.128992,0.189311,0.189311,Stable,historical snapshot · completed
-P0033,Roads & Highways · Dhanbad · Project P0033,Roads & Highways,State PWD,Jharkhand,Dhanbad,2025-09-01,100,100,-3,123.525365,0.796317,0.892059,0.376278,0.45638,0.892059,Severe,historical snapshot · completed
+P0029,Roads & Highways · Kolkata · Project P0029,Roads & Highways,State PWD,West Bengal,Kolkata,2021-01-01,100,100,-3,102.714646,0.199486,0.25345,0.409756,0.492536,0.492536,Elevated,· completed
+P0030,Aviation & Aviation Infrastructure · Surat · Project P0030,Aviation & Aviation Infrastructure,AAI,Gujarat,Surat,2021-01-01,100,100,-3,112.013115,0.464779,0.537314,0.40326,0.485521,0.537314,Elevated,· completed
+P0031,Roads & Highways · Faridabad · Project P0031,Roads & Highways,State PWD,Haryana,Faridabad,2022-04-01,100,100,0,96.029753,0.08782,0.133967,0.128992,0.189311,0.189311,Stable,· completed
+P0033,Roads & Highways · Dhanbad · Project P0033,Roads & Highways,State PWD,Jharkhand,Dhanbad,2025-09-01,100,100,-3,123.525365,0.796317,0.892059,0.376278,0.45638,0.892059,Severe,· completed
 P0039,Roads & Highways · Guntur · Project P0039,Roads & Highways,MoRTH,Andhra Pradesh,Guntur,2026-09-01,100,96.91,-1,114.172709,0.499493,0.574457,0.479161,0.567493,0.574457,Elevated,already overdue
 P0044,Railways · NTR · Project P0044,Railways,RVNL,Andhra Pradesh,NTR,2026-09-01,94.32,95.18,7,108.213256,0.417199,0.486403,0.197956,0.263792,0.486403,Elevated,active project
-P0049,Railways · Khordha · Project P0049,Railways,RVNL,Odisha,Khordha,2025-01-01,100,100,-2,108.801685,0.343795,0.407861,0.390793,0.472056,0.472056,Elevated,historical snapshot · completed
+P0049,Railways · Khordha · Project P0049,Railways,RVNL,Odisha,Khordha,2025-01-01,100,100,-2,108.801685,0.343795,0.407861,0.390793,0.472056,0.472056,Elevated,· completed
 P0054,Railways · Papum Pare · Project P0054,Railways,Indian Railways,Arunachal Pradesh,Papum Pare,2026-09-01,100,81.47,-3,94.533333,0.392579,0.46006,0.711354,0.818262,0.818262,Elevated,already overdue
 P0055,Roads & Highways · Bengaluru Urban · Project P0055,Roads & Highways,MoRTH,Karnataka,Bengaluru Urban,2026-09-01,45.47,42.04,23,41.618019,0.102052,0.149196,0.371888,0.451639,0.451639,Stable,active project
-P0060,Roads & Highways · Ludhiana · Project P0060,Roads & Highways,MoRTH,Punjab,Ludhiana,2026-08-01,100,100,-5,109.828592,0.626494,0.710349,0.608452,0.707128,0.710349,Severe,historical snapshot · completed
+P0060,Roads & Highways · Ludhiana · Project P0060,Roads & Highways,MoRTH,Punjab,Ludhiana,2026-08-01,100,100,-5,109.828592,0.626494,0.710349,0.608452,0.707128,0.710349,Severe,· completed
 P0063,Roads & Highways · East Singhbhum · Project P0063,Roads & Highways,NHAI,Jharkhand,East Singhbhum,2026-09-01,20.67,22.77,31,22.404635,0.13814,0.18781,0.250184,0.320199,0.320199,Stable,active project
 P0065,Water Resources · Kanpur Nagar · Project P0065,Water Resources,State Irrigation Dept,Uttar Pradesh,Kanpur Nagar,2026-09-01,25.18,18.48,37,17.728729,0.08,0.1042,0.34352,0.421002,0.421002,Stable,active project
 P0066,Roads & Highways · Srinagar · Project P0066,Roads & Highways,State PWD,Jammu and Kashmir,Srinagar,2026-09-01,100,93.19,-2,100.692281,0.247653,0.304988,0.521628,0.613358,0.613358,Elevated,already overdue
 P0067,Roads & Highways · Coimbatore · Project P0067,Roads & Highways,NHAI,Tamil Nadu,Coimbatore,2026-09-01,92.05,79.67,7,85.875766,0.22714,0.28304,0.515784,0.607047,0.607047,Elevated,active project
-P0070,Water Resources · Kolkata · Project P0070,Water Resources,NWDA,West Bengal,Kolkata,2020-05-01,100,100,-7,107.448159,0.258058,0.316122,0.519137,0.610668,0.610668,Elevated,historical snapshot · completed
+P0070,Water Resources · Kolkata · Project P0070,Water Resources,NWDA,West Bengal,Kolkata,2020-05-01,100,100,-7,107.448159,0.258058,0.316122,0.519137,0.610668,0.610668,Elevated,· completed
 P0072,Railways · Mumbai Suburban · Project P0072,Railways,IRCON,Maharashtra,Mumbai Suburban,2026-09-01,76.25,73.11,22,81.984019,0.29489,0.355532,0.336104,0.412992,0.412992,Elevated,active project
 P0076,Oil & Gas · Indore · Project P0076,Oil & Gas,IOCL,Madhya Pradesh,Indore,2026-09-01,15.44,14.15,52,14.623594,0.17347,0.225613,0.359634,0.438405,0.438405,Stable,active project
-P0077,Roads & Highways · Gaya · Project P0077,Roads & Highways,NHAI,Bihar,Gaya,2026-05-01,100,100,-7,103.741054,0.167612,0.219345,0.658427,0.761101,0.761101,Elevated,historical snapshot · completed
-P0078,Roads & Highways · Madurai · Project P0078,Roads & Highways,MoRTH,Tamil Nadu,Madurai,2025-12-01,100,100,-8,114.285714,0.420942,0.490408,0.637398,0.73839,0.73839,Elevated,historical snapshot · completed
-P0081,Roads & Highways · Lucknow · Project P0081,Roads & Highways,MoRTH,Uttar Pradesh,Lucknow,2019-12-01,100,100,0,118.634031,0.512978,0.588887,0.259326,0.330072,0.588887,Elevated,historical snapshot · completed
+P0077,Roads & Highways · Gaya · Project P0077,Roads & Highways,NHAI,Bihar,Gaya,2026-05-01,100,100,-7,103.741054,0.167612,0.219345,0.658427,0.761101,0.761101,Elevated,· completed
+P0078,Roads & Highways · Madurai · Project P0078,Roads & Highways,MoRTH,Tamil Nadu,Madurai,2025-12-01,100,100,-8,114.285714,0.420942,0.490408,0.637398,0.73839,0.73839,Elevated,· completed
+P0081,Roads & Highways · Lucknow · Project P0081,Roads & Highways,MoRTH,Uttar Pradesh,Lucknow,2019-12-01,100,100,0,118.634031,0.512978,0.588887,0.259326,0.330072,0.588887,Elevated,· completed
 P0082,"Tourism, Hospitality & Wellness · Indore · Project P0082","Tourism, Hospitality & Wellness",Ministry of Tourism,Madhya Pradesh,Indore,2026-09-01,47.76,47.02,15,44.629726,0.176514,0.22887,0.324877,0.400867,0.400867,Stable,active project
-P0084,Roads & Highways · Faridabad · Project P0084,Roads & Highways,NHAI,Haryana,Faridabad,2025-10-01,100,100,-7,112.453184,0.505924,0.581338,0.592456,0.689852,0.689852,Elevated,historical snapshot · completed
-P0086,Roads & Highways · Udaipur · Project P0086,Roads & Highways,MoRTH,Rajasthan,Udaipur,2023-04-01,100,100,-3,92.638985,0.08308,0.128896,0.378617,0.458906,0.458906,Stable,historical snapshot · completed
-P0096,Roads & Highways · Jaipur · Project P0096,Roads & Highways,MoRTH,Rajasthan,Jaipur,2023-03-01,100,100,-4,104.502814,0.251223,0.308809,0.480309,0.568734,0.568734,Elevated,historical snapshot · completed
-P0097,Railways · Gaya · Project P0097,Railways,Indian Railways,Bihar,Gaya,2025-06-01,100,100,-2,102.046205,0.083369,0.129205,0.28645,0.359366,0.359366,Stable,historical snapshot · completed
-P0101,Railways · NTR · Project P0101,Railways,IRCON,Andhra Pradesh,NTR,2019-07-01,100,100,0,92.861067,0.08,0.105131,0.118486,0.177965,0.177965,Stable,historical snapshot · completed
+P0084,Roads & Highways · Faridabad · Project P0084,Roads & Highways,NHAI,Haryana,Faridabad,2025-10-01,100,100,-7,112.453184,0.505924,0.581338,0.592456,0.689852,0.689852,Elevated,· completed
+P0086,Roads & Highways · Udaipur · Project P0086,Roads & Highways,MoRTH,Rajasthan,Udaipur,2023-04-01,100,100,-3,92.638985,0.08308,0.128896,0.378617,0.458906,0.458906,Stable,· completed
+P0096,Roads & Highways · Jaipur · Project P0096,Roads & Highways,MoRTH,Rajasthan,Jaipur,2023-03-01,100,100,-4,104.502814,0.251223,0.308809,0.480309,0.568734,0.568734,Elevated,· completed
+P0097,Railways · Gaya · Project P0097,Railways,Indian Railways,Bihar,Gaya,2025-06-01,100,100,-2,102.046205,0.083369,0.129205,0.28645,0.359366,0.359366,Stable,· completed
+P0101,Railways · NTR · Project P0101,Railways,IRCON,Andhra Pradesh,NTR,2019-07-01,100,100,0,92.861067,0.08,0.105131,0.118486,0.177965,0.177965,Stable,· completed
 P0109,Roads & Highways · Khordha · Project P0109,Roads & Highways,NHAI,Odisha,Khordha,2026-09-01,86.23,81.12,8,87.186742,0.16786,0.21961,0.261224,0.332122,0.332122,Stable,active project
 P0110,Railways · Shimla · Project P0110,Railways,IRCON,Himachal Pradesh,Shimla,2026-09-01,97.24,88.02,1,94.618056,0.174551,0.22677,0.330772,0.407234,0.407234,Stable,deadline within 6 months
-P0118,Roads & Highways · Dehradun · Project P0118,Roads & Highways,MoRTH,Uttarakhand,Dehradun,2024-08-01,100,100,-12,109.081151,0.272286,0.331346,0.8395,0.92,0.92,Elevated,historical snapshot · completed
-P0120,Aviation & Aviation Infrastructure · Indore · Project P0120,Aviation & Aviation Infrastructure,AAI,Madhya Pradesh,Indore,2025-05-01,100,100,-2,118.390519,0.675871,0.763182,0.380371,0.460801,0.763182,Elevated,historical snapshot · completed
-P0136,Roads & Highways · Darjeeling · Project P0136,Roads & Highways,State PWD,West Bengal,Darjeeling,2022-09-01,100,100,-5,120.688529,0.92,0.92,0.398435,0.48031,0.92,Severe,historical snapshot · completed
-P0137,Oil & Gas · Srinagar · Project P0137,Oil & Gas,IOCL,Jammu and Kashmir,Srinagar,2022-05-01,100,100,-4,124.199151,0.640953,0.72582,0.413195,0.496251,0.72582,Elevated,historical snapshot · completed
-P0139,Railways · Dhanbad · Project P0139,Railways,Indian Railways,Jharkhand,Dhanbad,2026-05-01,100,100,-6,111.304132,0.485877,0.559888,0.62565,0.725702,0.725702,Elevated,historical snapshot · completed
+P0118,Roads & Highways · Dehradun · Project P0118,Roads & Highways,MoRTH,Uttarakhand,Dehradun,2024-08-01,100,100,-12,109.081151,0.272286,0.331346,0.8395,0.92,0.92,Elevated,· completed
+P0120,Aviation & Aviation Infrastructure · Indore · Project P0120,Aviation & Aviation Infrastructure,AAI,Madhya Pradesh,Indore,2025-05-01,100,100,-2,118.390519,0.675871,0.763182,0.380371,0.460801,0.763182,Elevated,· completed
+P0136,Roads & Highways · Darjeeling · Project P0136,Roads & Highways,State PWD,West Bengal,Darjeeling,2022-09-01,100,100,-5,120.688529,0.92,0.92,0.398435,0.48031,0.92,Severe,· completed
+P0137,Oil & Gas · Srinagar · Project P0137,Oil & Gas,IOCL,Jammu and Kashmir,Srinagar,2022-05-01,100,100,-4,124.199151,0.640953,0.72582,0.413195,0.496251,0.72582,Elevated,· completed
+P0139,Railways · Dhanbad · Project P0139,Railways,Indian Railways,Jharkhand,Dhanbad,2026-05-01,100,100,-6,111.304132,0.485877,0.559888,0.62565,0.725702,0.725702,Elevated,· completed
 P0141,Roads & Highways · Ahmedabad · Project P0141,Roads & Highways,State PWD,Gujarat,Ahmedabad,2026-09-01,88.89,63.83,4,65.621562,0.191165,0.244547,0.56345,0.658526,0.658526,Elevated,deadline within 6 months
 P0155,Roads & Highways · Jalandhar · Project P0155,Roads & Highways,MoRTH,Punjab,Jalandhar,2026-09-01,87.5,83.51,6,89.021081,0.141986,0.191925,0.319462,0.395019,0.395019,Stable,deadline within 6 months
 P0165,Roads & Highways · Kolkata · Project P0165,Roads & Highways,State PWD,West Bengal,Kolkata,2026-09-01,72.92,50.67,7,52.953485,0.229657,0.285733,0.516578,0.607904,0.607904,Elevated,active project
 P0168,Roads & Highways · Jaipur · Project P0168,Roads & Highways,NHAI,Rajasthan,Jaipur,2026-09-01,18.31,11.5,19,12.32539,0.378219,0.444694,0.426977,0.511135,0.511135,Elevated,active project
 P0174,Roads & Highways · East Khasi Hills · Project P0174,Roads & Highways,State PWD,Meghalaya,East Khasi Hills,2026-09-01,88.17,82.81,11,89.323343,0.24163,0.298544,0.42766,0.511873,0.511873,Elevated,active project
-P0192,Electricity Generation · Kamrup Metropolitan · Project P0192,Electricity Generation,NHPC,Assam,Kamrup Metropolitan,2021-10-01,100,100,-3,115,0.406462,0.474914,0.496516,0.586237,0.586237,Elevated,historical snapshot · completed
+P0192,Electricity Generation · Kamrup Metropolitan · Project P0192,Electricity Generation,NHPC,Assam,Kamrup Metropolitan,2021-10-01,100,100,-3,115,0.406462,0.474914,0.496516,0.586237,0.586237,Elevated,· completed
 P0196,Roads & Highways · Visakhapatnam · Project P0196,Roads & Highways,NHAI,Andhra Pradesh,Visakhapatnam,2026-09-01,15.06,9.27,19,9.395649,0.093834,0.140402,0.29853,0.372412,0.372412,Stable,active project
 P0198,Roads & Highways · Darjeeling · Project P0198,Roads & Highways,MoRTH,West Bengal,Darjeeling,2026-09-01,46.75,43.65,21,44.623116,0.170898,0.222861,0.311035,0.385918,0.385918,Stable,active project
 P0199,Roads & Highways · New Delhi · Project P0199,Roads & Highways,State PWD,Delhi,New Delhi,2026-09-01,35.18,32.26,32,32.425404,0.158257,0.209335,0.359643,0.438414,0.438414,Stable,active project
 P0204,Roads & Highways · Dharwad · Project P0204,Roads & Highways,MoRTH,Karnataka,Dharwad,2026-09-01,29.99,35.54,48,36.866168,0.19994,0.253936,0.197418,0.263211,0.263211,Stable,active project
-P0208,Roads & Highways · Gurugram · Project P0208,Roads & Highways,NHAI,Haryana,Gurugram,2022-05-01,100,100,-2,105.386139,0.311119,0.372897,0.447142,0.532914,0.532914,Elevated,historical snapshot · completed
+P0208,Roads & Highways · Gurugram · Project P0208,Roads & Highways,NHAI,Haryana,Gurugram,2022-05-01,100,100,-2,105.386139,0.311119,0.372897,0.447142,0.532914,0.532914,Elevated,· completed
 P0209,Roads & Highways · Dharwad · Project P0209,Roads & Highways,MoRTH,Karnataka,Dharwad,2026-09-01,53.09,57.61,20,57.358313,0.083272,0.129101,0.168817,0.232322,0.232322,Stable,active project
 P0210,Roads & Highways · Kolkata · Project P0210,Roads & Highways,MoRTH,West Bengal,Kolkata,2026-09-01,72.7,75.54,16,77.580022,0.088585,0.134786,0.17405,0.237974,0.237974,Stable,active project
 P0211,Oil & Gas · Thiruvananthapuram · Project P0211,Oil & Gas,IOCL,Kerala,Thiruvananthapuram,2026-09-01,39.8,25.09,11,26.983795,0.212768,0.267662,0.395356,0.476984,0.476984,Elevated,active project
 P0213,Roads & Highways · Ludhiana · Project P0213,Roads & Highways,State PWD,Punjab,Ludhiana,2026-09-01,66.22,57.63,28,59.669582,0.168357,0.220142,0.537471,0.630469,0.630469,Elevated,active project
-P0215,Roads & Highways · Pune · Project P0215,Roads & Highways,MoRTH,Maharashtra,Pune,2019-05-01,100,100,-5,93.899265,0.08,0.115369,0.453189,0.539444,0.539444,Stable,historical snapshot · completed
+P0215,Roads & Highways · Pune · Project P0215,Roads & Highways,MoRTH,Maharashtra,Pune,2019-05-01,100,100,-5,93.899265,0.08,0.115369,0.453189,0.539444,0.539444,Stable,· completed
 P0218,Waste & Water · Warangal · Project P0218,Waste & Water,State Jal Nigam,Telangana,Warangal,2026-09-01,10.71,4.73,31,5,0.330007,0.393107,0.427903,0.512135,0.512135,Elevated,active project
-P0227,Roads & Highways · Varanasi · Project P0227,Roads & Highways,NHAI,Uttar Pradesh,Varanasi,2023-07-01,100,100,-4,109.725467,0.352813,0.41751,0.48852,0.577602,0.577602,Elevated,historical snapshot · completed
+P0227,Roads & Highways · Varanasi · Project P0227,Roads & Highways,NHAI,Uttar Pradesh,Varanasi,2023-07-01,100,100,-4,109.725467,0.352813,0.41751,0.48852,0.577602,0.577602,Elevated,· completed
 P0231,Roads & Highways · Kohima · Project P0231,Roads & Highways,NHAI,Nagaland,Kohima,2026-09-01,16.23,11.8,39,11.801764,0.145334,0.195507,0.442713,0.52813,0.52813,Elevated,active project
-P0235,Roads & Highways · Gurugram · Project P0235,Roads & Highways,NHAI,Haryana,Gurugram,2025-10-01,100,100,-2,120.016273,0.741612,0.833524,0.321399,0.397111,0.833524,Elevated,historical snapshot · completed
+P0235,Roads & Highways · Gurugram · Project P0235,Roads & Highways,NHAI,Haryana,Gurugram,2025-10-01,100,100,-2,120.016273,0.741612,0.833524,0.321399,0.397111,0.833524,Elevated,· completed
 P0239,Roads & Highways · Darjeeling · Project P0239,Roads & Highways,NHAI,West Bengal,Darjeeling,2026-09-01,12,10.46,28,10.617785,0.098924,0.145849,0.240516,0.309757,0.309757,Stable,active project
 P0244,Oil & Gas · Nagpur · Project P0244,Oil & Gas,IOCL,Maharashtra,Nagpur,2026-09-01,100,95.81,-1,99.58575,0.173984,0.226163,0.465513,0.552754,0.552754,Elevated,already overdue
 P0247,Roads & Highways · Kanpur Nagar · Project P0247,Roads & Highways,MoRTH,Uttar Pradesh,Kanpur Nagar,2026-09-01,69.96,69.9,12,80.038966,0.344636,0.408761,0.260316,0.331141,0.408761,Elevated,active project
-P0250,Railways · Varanasi · Project P0250,Railways,Indian Railways,Uttar Pradesh,Varanasi,2025-09-01,100,100,0,119.23171,0.564283,0.643783,0.305777,0.380239,0.643783,Elevated,historical snapshot · completed
-P0260,Roads & Highways · Dharwad · Project P0260,Roads & Highways,MoRTH,Karnataka,Dharwad,2019-07-01,100,100,-4,112.249703,0.92,0.92,0.402352,0.48454,0.92,Severe,historical snapshot · completed
+P0250,Railways · Varanasi · Project P0250,Railways,Indian Railways,Uttar Pradesh,Varanasi,2025-09-01,100,100,0,119.23171,0.564283,0.643783,0.305777,0.380239,0.643783,Elevated,· completed
+P0260,Roads & Highways · Dharwad · Project P0260,Roads & Highways,MoRTH,Karnataka,Dharwad,2019-07-01,100,100,-4,112.249703,0.92,0.92,0.402352,0.48454,0.92,Severe,· completed
 P0265,Electricity Generation · Kangra · Project P0265,Electricity Generation,NTPC,Himachal Pradesh,Kangra,2026-09-01,22.82,21.27,23,20.155983,0.105374,0.15275,0.419559,0.503124,0.503124,Stable,active project
 P0275,Waste & Water · Gurugram · Project P0275,Waste & Water,CPHEEO,Haryana,Gurugram,2026-09-01,2.07,1.09,22,1.084468,0.149718,0.200198,0.324317,0.400262,0.400262,Stable,active project
 P0280,Railways · Dhanbad · Project P0280,Railways,IRCON,Jharkhand,Dhanbad,2026-09-01,98.67,97.01,1,101.274345,0.312008,0.373848,0.447288,0.533071,0.533071,Elevated,deadline within 6 months
@@ -70,95 +70,95 @@ P0290,Railways · Dibrugarh · Project P0290,Railways,RVNL,Assam,Dibrugarh,2026-
 P0291,Roads & Highways · East Khasi Hills · Project P0291,Roads & Highways,State PWD,Meghalaya,East Khasi Hills,2026-09-01,90.96,86.05,8,90.342451,0.226695,0.282564,0.362813,0.441838,0.441838,Elevated,active project
 P0292,Roads & Highways · Dharwad · Project P0292,Roads & Highways,NHAI,Karnataka,Dharwad,2026-09-01,56.77,51.6,30,53.294002,0.1734,0.225538,0.346163,0.423856,0.423856,Stable,active project
 P0294,Roads & Highways · Mumbai Suburban · Project P0294,Roads & Highways,State PWD,Maharashtra,Mumbai Suburban,2026-09-01,84.72,55.75,4,69.085691,0.581875,0.662606,0.609046,0.70777,0.70777,Severe,deadline within 6 months
-P0298,Transmission & Distribution · Visakhapatnam · Project P0298,Transmission & Distribution,State DISCOM,Andhra Pradesh,Visakhapatnam,2020-07-01,100,100,-16,104.130031,0.429038,0.499071,0.92,0.92,0.92,Severe,historical snapshot · completed
+P0298,Transmission & Distribution · Visakhapatnam · Project P0298,Transmission & Distribution,State DISCOM,Andhra Pradesh,Visakhapatnam,2020-07-01,100,100,-16,104.130031,0.429038,0.499071,0.92,0.92,0.92,Severe,· completed
 P0299,Roads & Highways · Ambala · Project P0299,Roads & Highways,NHAI,Haryana,Ambala,2026-09-01,10.63,9.26,52,9.425161,0.139476,0.189239,0.360008,0.438809,0.438809,Stable,active project
 P0302,Oil & Gas · Dimapur · Project P0302,Oil & Gas,GAIL,Nagaland,Dimapur,2026-09-01,91.5,72.15,3,77.266152,0.182952,0.235759,0.425698,0.509754,0.509754,Elevated,deadline within 6 months
-P0306,Railways · Dharwad · Project P0306,Railways,IRCON,Karnataka,Dharwad,2025-05-01,100,100,-6,113.800657,0.443344,0.514378,0.44439,0.529941,0.529941,Elevated,historical snapshot · completed
+P0306,Railways · Dharwad · Project P0306,Railways,IRCON,Karnataka,Dharwad,2025-05-01,100,100,-6,113.800657,0.443344,0.514378,0.44439,0.529941,0.529941,Elevated,· completed
 P0309,Transmission & Distribution · Kanpur Nagar · Project P0309,Transmission & Distribution,POWERGRID,Uttar Pradesh,Kanpur Nagar,2026-09-01,42.8,35.07,15,36.529561,0.204995,0.259345,0.370658,0.450311,0.450311,Elevated,active project
-P0312,Roads & Highways · Chennai · Project P0312,Roads & Highways,NHAI,Tamil Nadu,Chennai,2023-01-01,100,100,-7,119.220686,0.627846,0.711795,0.64136,0.742669,0.742669,Severe,historical snapshot · completed
+P0312,Roads & Highways · Chennai · Project P0312,Roads & Highways,NHAI,Tamil Nadu,Chennai,2023-01-01,100,100,-7,119.220686,0.627846,0.711795,0.64136,0.742669,0.742669,Severe,· completed
 P0314,Oil & Gas · Jaipur · Project P0314,Oil & Gas,ONGC,Rajasthan,Jaipur,2026-09-01,38.06,28.19,16,31.423174,0.341478,0.405381,0.356321,0.434826,0.434826,Elevated,active project
-P0316,Roads & Highways · Cachar · Project P0316,Roads & Highways,State PWD,Assam,Cachar,2020-07-01,100,100,-2,104.539559,0.181058,0.233732,0.27034,0.341967,0.341967,Stable,historical snapshot · completed
-P0321,Roads & Highways · Nagpur · Project P0321,Roads & Highways,NHAI,Maharashtra,Nagpur,2023-08-01,100,100,-8,115.133333,0.355178,0.420041,0.56157,0.656496,0.656496,Elevated,historical snapshot · completed
-P0323,Roads & Highways · Bilaspur · Project P0323,Roads & Highways,NHAI,Chhattisgarh,Bilaspur,2025-06-01,100,100,-3,113.521127,0.551796,0.630422,0.432433,0.517028,0.630422,Elevated,historical snapshot · completed
+P0316,Roads & Highways · Cachar · Project P0316,Roads & Highways,State PWD,Assam,Cachar,2020-07-01,100,100,-2,104.539559,0.181058,0.233732,0.27034,0.341967,0.341967,Stable,· completed
+P0321,Roads & Highways · Nagpur · Project P0321,Roads & Highways,NHAI,Maharashtra,Nagpur,2023-08-01,100,100,-8,115.133333,0.355178,0.420041,0.56157,0.656496,0.656496,Elevated,· completed
+P0323,Roads & Highways · Bilaspur · Project P0323,Roads & Highways,NHAI,Chhattisgarh,Bilaspur,2025-06-01,100,100,-3,113.521127,0.551796,0.630422,0.432433,0.517028,0.630422,Elevated,· completed
 P0326,Roads & Highways · NTR · Project P0326,Roads & Highways,MoRTH,Andhra Pradesh,NTR,2026-09-01,39.66,34.41,29,32.59589,0.10241,0.149579,0.459206,0.545942,0.545942,Elevated,active project
 P0328,Roads & Highways · Leh · Project P0328,Roads & Highways,MoRTH,Ladakh,Leh,2026-09-01,20.55,22.11,34,22.982456,0.16669,0.218358,0.207352,0.27394,0.27394,Stable,active project
-P0333,Railways · Varanasi · Project P0333,Railways,Indian Railways,Uttar Pradesh,Varanasi,2021-05-01,100,100,-3,111.189366,0.479025,0.552556,0.386757,0.467697,0.552556,Elevated,historical snapshot · completed
+P0333,Railways · Varanasi · Project P0333,Railways,Indian Railways,Uttar Pradesh,Varanasi,2021-05-01,100,100,-3,111.189366,0.479025,0.552556,0.386757,0.467697,0.552556,Elevated,· completed
 P0334,Roads & Highways · Jaipur · Project P0334,Roads & Highways,State PWD,Rajasthan,Jaipur,2026-09-01,87.13,89.67,13,98.255741,0.36249,0.427864,0.272533,0.344336,0.427864,Elevated,active project
 P0338,Roads & Highways · Shimla · Project P0338,Roads & Highways,MoRTH,Himachal Pradesh,Shimla,2026-09-01,6.93,8.54,53,8.58857,0.12115,0.169631,0.245152,0.314764,0.314764,Stable,active project
-P0344,Roads & Highways · Varanasi · Project P0344,Roads & Highways,NHAI,Uttar Pradesh,Varanasi,2025-03-01,100,100,0,113.38263,0.645364,0.73054,0.198792,0.264695,0.73054,Elevated,historical snapshot · completed
-P0346,Roads & Highways · Thiruvananthapuram · Project P0346,Roads & Highways,MoRTH,Kerala,Thiruvananthapuram,2023-04-01,100,100,0,104.563107,0.167807,0.219554,0.11038,0.16921,0.219554,Stable,historical snapshot · completed
+P0344,Roads & Highways · Varanasi · Project P0344,Roads & Highways,NHAI,Uttar Pradesh,Varanasi,2025-03-01,100,100,0,113.38263,0.645364,0.73054,0.198792,0.264695,0.73054,Elevated,· completed
+P0346,Roads & Highways · Thiruvananthapuram · Project P0346,Roads & Highways,MoRTH,Kerala,Thiruvananthapuram,2023-04-01,100,100,0,104.563107,0.167807,0.219554,0.11038,0.16921,0.219554,Stable,· completed
 P0351,Roads & Highways · Ludhiana · Project P0351,Roads & Highways,State PWD,Punjab,Ludhiana,2026-09-01,4.61,6.74,54,6.780763,0.19085,0.244209,0.333212,0.409869,0.409869,Stable,active project
 P0352,Roads & Highways · Udaipur · Project P0352,Roads & Highways,MoRTH,Rajasthan,Udaipur,2026-09-01,70.05,68.37,26,77.197952,0.359236,0.424383,0.323928,0.399843,0.424383,Elevated,active project
 P0357,Healthcare · Surat · Project P0357,Healthcare,HITES,Gujarat,Surat,2026-09-01,47.76,43.09,15,45.490982,0.13629,0.18583,0.372226,0.452004,0.452004,Stable,active project
-P0360,Waste & Water · NTR · Project P0360,Waste & Water,CPHEEO,Andhra Pradesh,NTR,2021-01-01,100,100,-6,105.232862,0.222832,0.27843,0.653752,0.756052,0.756052,Elevated,historical snapshot · completed
+P0360,Waste & Water · NTR · Project P0360,Waste & Water,CPHEEO,Andhra Pradesh,NTR,2021-01-01,100,100,-6,105.232862,0.222832,0.27843,0.653752,0.756052,0.756052,Elevated,· completed
 P0361,Roads & Highways · Ganjam · Project P0361,Roads & Highways,NHAI,Odisha,Ganjam,2026-09-01,14.24,8.41,44,9.181526,0.270534,0.329471,0.473948,0.561863,0.561863,Elevated,active project
 P0363,Roads & Highways · Darjeeling · Project P0363,Roads & Highways,MoRTH,West Bengal,Darjeeling,2026-09-01,16.46,12.41,14,13.522215,0.26859,0.327391,0.261902,0.332854,0.332854,Stable,active project
 P0365,Roads & Highways · South Andaman · Project P0365,Roads & Highways,NHAI,Andaman and Nicobar Islands,South Andaman,2026-09-01,61.19,54.51,31,55.685778,0.219611,0.274984,0.472932,0.560766,0.560766,Elevated,active project
-P0367,Roads & Highways · Howrah · Project P0367,Roads & Highways,State PWD,West Bengal,Howrah,2021-06-01,100,100,-5,108.277586,0.431503,0.501708,0.505741,0.596201,0.596201,Elevated,historical snapshot · completed
+P0367,Roads & Highways · Howrah · Project P0367,Roads & Highways,State PWD,West Bengal,Howrah,2021-06-01,100,100,-5,108.277586,0.431503,0.501708,0.505741,0.596201,0.596201,Elevated,· completed
 P0368,Roads & Highways · Chennai · Project P0368,Roads & Highways,MoRTH,Tamil Nadu,Chennai,2026-09-01,13.15,10.31,43,11.333333,0.384722,0.451653,0.499067,0.588992,0.588992,Elevated,active project
-P0370,Roads & Highways · Surat · Project P0370,Roads & Highways,NHAI,Gujarat,Surat,2025-08-01,100,100,-9,114.549509,0.827145,0.92,0.783195,0.895851,0.92,Severe,historical snapshot · completed
+P0370,Roads & Highways · Surat · Project P0370,Roads & Highways,NHAI,Gujarat,Surat,2025-08-01,100,100,-9,114.549509,0.827145,0.92,0.783195,0.895851,0.92,Severe,· completed
 P0375,Roads & Highways · Ahmedabad · Project P0375,Roads & Highways,NHAI,Gujarat,Ahmedabad,2026-09-01,21.08,26.12,47,25.813362,0.113378,0.161314,0.19427,0.259812,0.259812,Stable,active project
-P0381,Roads & Highways · Bengaluru Urban · Project P0381,Roads & Highways,MoRTH,Karnataka,Bengaluru Urban,2020-05-01,100,100,0,114.088866,0.891824,0.92,0.1992,0.265136,0.92,Elevated,historical snapshot · completed
-P0390,Roads & Highways · North Goa · Project P0390,Roads & Highways,NHAI,Goa,North Goa,2024-11-01,100,100,-5,105.606695,0.217746,0.272988,0.495565,0.58521,0.58521,Elevated,historical snapshot · completed
-P0394,Roads & Highways · Vadodara · Project P0394,Roads & Highways,State PWD,Gujarat,Vadodara,2024-09-01,100,100,-2,99.4,0.110464,0.158196,0.444762,0.530343,0.530343,Elevated,historical snapshot · completed
-P0396,Oil & Gas · Warangal · Project P0396,Oil & Gas,IOCL,Telangana,Warangal,2020-11-01,100,100,0,103.333333,0.110032,0.157735,0.160598,0.223445,0.223445,Stable,historical snapshot · completed
+P0381,Roads & Highways · Bengaluru Urban · Project P0381,Roads & Highways,MoRTH,Karnataka,Bengaluru Urban,2020-05-01,100,100,0,114.088866,0.891824,0.92,0.1992,0.265136,0.92,Elevated,· completed
+P0390,Roads & Highways · North Goa · Project P0390,Roads & Highways,NHAI,Goa,North Goa,2024-11-01,100,100,-5,105.606695,0.217746,0.272988,0.495565,0.58521,0.58521,Elevated,· completed
+P0394,Roads & Highways · Vadodara · Project P0394,Roads & Highways,State PWD,Gujarat,Vadodara,2024-09-01,100,100,-2,99.4,0.110464,0.158196,0.444762,0.530343,0.530343,Elevated,· completed
+P0396,Oil & Gas · Warangal · Project P0396,Oil & Gas,IOCL,Telangana,Warangal,2020-11-01,100,100,0,103.333333,0.110032,0.157735,0.160598,0.223445,0.223445,Stable,· completed
 P0398,Transmission & Distribution · Indore · Project P0398,Transmission & Distribution,POWERGRID,Madhya Pradesh,Indore,2026-09-01,100,93.09,-4,97.733333,0.27348,0.332624,0.69651,0.802231,0.802231,Elevated,already overdue
-P0404,Aviation & Aviation Infrastructure · Lucknow · Project P0404,Aviation & Aviation Infrastructure,AAI,Uttar Pradesh,Lucknow,2025-02-01,100,100,0,101.822268,0.107768,0.155312,0.160089,0.222896,0.222896,Stable,historical snapshot · completed
+P0404,Aviation & Aviation Infrastructure · Lucknow · Project P0404,Aviation & Aviation Infrastructure,AAI,Uttar Pradesh,Lucknow,2025-02-01,100,100,0,101.822268,0.107768,0.155312,0.160089,0.222896,0.222896,Stable,· completed
 P0405,Roads & Highways · Muzaffarpur · Project P0405,Roads & Highways,State PWD,Bihar,Muzaffarpur,2026-09-01,45.25,44.06,22,44.851658,0.154625,0.205449,0.289954,0.36315,0.36315,Stable,active project
-P0409,Roads & Highways · Baramulla · Project P0409,Roads & Highways,State PWD,Jammu and Kashmir,Baramulla,2026-02-01,100,100,0,111.075544,0.466013,0.538634,0.220741,0.2884,0.538634,Elevated,historical snapshot · completed
-P0412,Oil & Gas · Lucknow · Project P0412,Oil & Gas,GAIL,Uttar Pradesh,Lucknow,2024-10-01,100,100,0,97.533333,0.08,0.104236,0.278824,0.35113,0.35113,Stable,historical snapshot · completed
-P0417,Roads & Highways · Namchi · Project P0417,Roads & Highways,MoRTH,Sikkim,Namchi,2025-06-01,100,100,-4,109.020761,0.335204,0.398668,0.50204,0.592203,0.592203,Elevated,historical snapshot · completed
-P0422,Roads & Highways · Haridwar · Project P0422,Roads & Highways,State PWD,Uttarakhand,Haridwar,2025-02-01,100,100,-1,121.146015,0.579988,0.660587,0.203091,0.269338,0.660587,Elevated,historical snapshot · completed
-P0426,Coal · Kanpur Nagar · Project P0426,Coal,Coal India Ltd,Uttar Pradesh,Kanpur Nagar,2019-10-01,100,100,-1,110.533333,0.280694,0.340343,0.191728,0.257067,0.340343,Stable,historical snapshot · completed
+P0409,Roads & Highways · Baramulla · Project P0409,Roads & Highways,State PWD,Jammu and Kashmir,Baramulla,2026-02-01,100,100,0,111.075544,0.466013,0.538634,0.220741,0.2884,0.538634,Elevated,· completed
+P0412,Oil & Gas · Lucknow · Project P0412,Oil & Gas,GAIL,Uttar Pradesh,Lucknow,2024-10-01,100,100,0,97.533333,0.08,0.104236,0.278824,0.35113,0.35113,Stable,· completed
+P0417,Roads & Highways · Namchi · Project P0417,Roads & Highways,MoRTH,Sikkim,Namchi,2025-06-01,100,100,-4,109.020761,0.335204,0.398668,0.50204,0.592203,0.592203,Elevated,· completed
+P0422,Roads & Highways · Haridwar · Project P0422,Roads & Highways,State PWD,Uttarakhand,Haridwar,2025-02-01,100,100,-1,121.146015,0.579988,0.660587,0.203091,0.269338,0.660587,Elevated,· completed
+P0426,Coal · Kanpur Nagar · Project P0426,Coal,Coal India Ltd,Uttar Pradesh,Kanpur Nagar,2019-10-01,100,100,-1,110.533333,0.280694,0.340343,0.191728,0.257067,0.340343,Stable,· completed
 P0428,Roads & Highways · Ernakulam · Project P0428,Roads & Highways,NHAI,Kerala,Ernakulam,2026-09-01,91.85,90.01,7,97.310221,0.260945,0.319211,0.189524,0.254686,0.319211,Stable,active project
-P0429,Roads & Highways · Lucknow · Project P0429,Roads & Highways,State PWD,Uttar Pradesh,Lucknow,2023-08-01,100,100,0,112.19106,0.463772,0.536236,0.217101,0.284469,0.536236,Elevated,historical snapshot · completed
-P0430,Roads & Highways · Kolkata · Project P0430,Roads & Highways,MoRTH,West Bengal,Kolkata,2025-09-01,100,100,0,92.017224,0.08,0.119062,0.168984,0.232503,0.232503,Stable,historical snapshot · completed
-P0431,Roads & Highways · Chandigarh · Project P0431,Roads & Highways,State PWD,Chandigarh,Chandigarh,2020-07-01,100,100,-1,106.349206,0.298466,0.359358,0.16582,0.229086,0.359358,Stable,historical snapshot · completed
-P0440,Railways · Jammu · Project P0440,Railways,IRCON,Jammu and Kashmir,Jammu,2024-03-01,100,100,0,110.772184,0.468436,0.541227,0.297208,0.370984,0.541227,Elevated,historical snapshot · completed
+P0429,Roads & Highways · Lucknow · Project P0429,Roads & Highways,State PWD,Uttar Pradesh,Lucknow,2023-08-01,100,100,0,112.19106,0.463772,0.536236,0.217101,0.284469,0.536236,Elevated,· completed
+P0430,Roads & Highways · Kolkata · Project P0430,Roads & Highways,MoRTH,West Bengal,Kolkata,2025-09-01,100,100,0,92.017224,0.08,0.119062,0.168984,0.232503,0.232503,Stable,· completed
+P0431,Roads & Highways · Chandigarh · Project P0431,Roads & Highways,State PWD,Chandigarh,Chandigarh,2020-07-01,100,100,-1,106.349206,0.298466,0.359358,0.16582,0.229086,0.359358,Stable,· completed
+P0440,Railways · Jammu · Project P0440,Railways,IRCON,Jammu and Kashmir,Jammu,2024-03-01,100,100,0,110.772184,0.468436,0.541227,0.297208,0.370984,0.541227,Elevated,· completed
 P0444,Railways · South West Delhi · Project P0444,Railways,IRCON,Delhi,South West Delhi,2026-09-01,89.33,91.15,11,97.773772,0.23117,0.287352,0.185296,0.25012,0.287352,Stable,active project
-P0447,Roads & Highways · Vadodara · Project P0447,Roads & Highways,MoRTH,Gujarat,Vadodara,2021-04-01,100,100,-3,123.009526,0.92,0.92,0.4239,0.507812,0.92,Severe,historical snapshot · completed
-P0448,Roads & Highways · Mysuru · Project P0448,Roads & Highways,MoRTH,Karnataka,Mysuru,2023-09-01,100,100,0,104.580294,0.249512,0.306977,0.139066,0.200191,0.306977,Stable,historical snapshot · completed
+P0447,Roads & Highways · Vadodara · Project P0447,Roads & Highways,MoRTH,Gujarat,Vadodara,2021-04-01,100,100,-3,123.009526,0.92,0.92,0.4239,0.507812,0.92,Severe,· completed
+P0448,Roads & Highways · Mysuru · Project P0448,Roads & Highways,MoRTH,Karnataka,Mysuru,2023-09-01,100,100,0,104.580294,0.249512,0.306977,0.139066,0.200191,0.306977,Stable,· completed
 P0449,Transmission & Distribution · Namchi · Project P0449,Transmission & Distribution,State DISCOM,Sikkim,Namchi,2026-09-01,52.41,46.71,13,50.034052,0.244543,0.301661,0.310068,0.384874,0.384874,Elevated,active project
 P0451,Roads & Highways · Raipur · Project P0451,Roads & Highways,NHAI,Chhattisgarh,Raipur,2026-09-01,19.83,15.09,44,15.031076,0.116,0.16412,0.363814,0.442919,0.442919,Stable,active project
 P0453,Roads & Highways · Bengaluru Urban · Project P0453,Roads & Highways,MoRTH,Karnataka,Bengaluru Urban,2026-09-01,96.33,96.08,5,99.37139,0.232062,0.288306,0.159247,0.221987,0.288306,Stable,deadline within 6 months
 P0462,Railways · Papum Pare · Project P0462,Railways,RVNL,Arunachal Pradesh,Papum Pare,2026-09-01,71.11,69.37,7,66.15899,0.08,0.123289,0.251968,0.322125,0.322125,Stable,active project
-P0464,Transmission & Distribution · Puducherry · Project P0464,Transmission & Distribution,State DISCOM,Puducherry,Puducherry,2020-10-01,100,100,-11,114.596717,0.42396,0.493637,0.752915,0.863148,0.863148,Severe,historical snapshot · completed
+P0464,Transmission & Distribution · Puducherry · Project P0464,Transmission & Distribution,State DISCOM,Puducherry,Puducherry,2020-10-01,100,100,-11,114.596717,0.42396,0.493637,0.752915,0.863148,0.863148,Severe,· completed
 P0465,Roads & Highways · Lucknow · Project P0465,Roads & Highways,MoRTH,Uttar Pradesh,Lucknow,2026-09-01,20.97,14.24,50,15.171788,0.218885,0.274207,0.455928,0.542402,0.542402,Elevated,active project
 P0473,Water Resources · Nagpur · Project P0473,Water Resources,CWC,Maharashtra,Nagpur,2026-09-01,58.44,55.88,10,57.251227,0.219357,0.274712,0.313796,0.3889,0.3889,Stable,active project
-P0481,Roads & Highways · Warangal · Project P0481,Roads & Highways,MoRTH,Telangana,Warangal,2024-12-01,100,100,-2,114.371465,0.537624,0.615258,0.387469,0.468467,0.615258,Elevated,historical snapshot · completed
+P0481,Roads & Highways · Warangal · Project P0481,Roads & Highways,MoRTH,Telangana,Warangal,2024-12-01,100,100,-2,114.371465,0.537624,0.615258,0.387469,0.468467,0.615258,Elevated,· completed
 P0482,Roads & Highways · Chennai · Project P0482,Roads & Highways,NHAI,Tamil Nadu,Chennai,2026-09-01,100,96.63,-1,111.308818,0.560679,0.639927,0.382242,0.462822,0.639927,Elevated,already overdue
-P0485,Roads & Highways · Dibrugarh · Project P0485,Roads & Highways,State PWD,Assam,Dibrugarh,2026-01-01,100,100,0,115.549456,0.853001,0.92,0.339974,0.417172,0.92,Severe,historical snapshot · completed
-P0486,Roads & Highways · Jabalpur · Project P0486,Roads & Highways,State PWD,Madhya Pradesh,Jabalpur,2022-08-01,100,100,-5,118.420482,0.567961,0.647718,0.513863,0.604972,0.647718,Elevated,historical snapshot · completed
-P0487,Roads & Highways · Tawang · Project P0487,Roads & Highways,NHAI,Arunachal Pradesh,Tawang,2024-02-01,100,100,0,104.399257,0.297396,0.358214,0.11878,0.178282,0.358214,Stable,historical snapshot · completed
-P0493,Roads & Highways · Mandi · Project P0493,Roads & Highways,MoRTH,Himachal Pradesh,Mandi,2023-05-01,100,100,0,100.969733,0.161389,0.212686,0.20473,0.271108,0.271108,Stable,historical snapshot · completed
+P0485,Roads & Highways · Dibrugarh · Project P0485,Roads & Highways,State PWD,Assam,Dibrugarh,2026-01-01,100,100,0,115.549456,0.853001,0.92,0.339974,0.417172,0.92,Severe,· completed
+P0486,Roads & Highways · Jabalpur · Project P0486,Roads & Highways,State PWD,Madhya Pradesh,Jabalpur,2022-08-01,100,100,-5,118.420482,0.567961,0.647718,0.513863,0.604972,0.647718,Elevated,· completed
+P0487,Roads & Highways · Tawang · Project P0487,Roads & Highways,NHAI,Arunachal Pradesh,Tawang,2024-02-01,100,100,0,104.399257,0.297396,0.358214,0.11878,0.178282,0.358214,Stable,· completed
+P0493,Roads & Highways · Mandi · Project P0493,Roads & Highways,MoRTH,Himachal Pradesh,Mandi,2023-05-01,100,100,0,100.969733,0.161389,0.212686,0.20473,0.271108,0.271108,Stable,· completed
 P0494,Roads & Highways · Mysuru · Project P0494,Roads & Highways,State PWD,Karnataka,Mysuru,2026-09-01,56.9,48.56,21,50.8,0.163328,0.214761,0.438713,0.52381,0.52381,Elevated,active project
 P0500,Roads & Highways · Jaipur · Project P0500,Roads & Highways,MoRTH,Rajasthan,Jaipur,2026-09-01,9.04,6.8,48,6.91783,0.08,0.123663,0.263914,0.335027,0.335027,Stable,active project
 P0512,Transmission & Distribution · Dharwad · Project P0512,Transmission & Distribution,POWERGRID,Karnataka,Dharwad,2026-09-01,28.89,33.73,20,33.232978,0.105584,0.152975,0.222427,0.290221,0.290221,Stable,active project
 P0513,Education · Muzaffarpur · Project P0513,Education,CPWD,Bihar,Muzaffarpur,2026-09-01,71.11,61.13,23,63.916119,0.119215,0.16756,0.45279,0.539013,0.539013,Elevated,active project
 P0516,Roads & Highways · Bengaluru Urban · Project P0516,Roads & Highways,MoRTH,Karnataka,Bengaluru Urban,2026-09-01,18.39,20.9,41,22.938624,0.374831,0.441069,0.328458,0.404735,0.441069,Elevated,active project
-P0518,Roads & Highways · Ganjam · Project P0518,Roads & Highways,NHAI,Odisha,Ganjam,2023-06-01,100,100,0,123.069797,0.92,0.92,0.19172,0.257058,0.92,Elevated,historical snapshot · completed
+P0518,Roads & Highways · Ganjam · Project P0518,Roads & Highways,NHAI,Odisha,Ganjam,2023-06-01,100,100,0,123.069797,0.92,0.92,0.19172,0.257058,0.92,Elevated,· completed
 P0519,Transmission & Distribution · Khordha · Project P0519,Transmission & Distribution,State DISCOM,Odisha,Khordha,2026-09-01,83.54,87.59,4,98.900514,0.283559,0.343408,0.252532,0.322735,0.343408,Elevated,deadline within 6 months
 P0522,Railways · Patna · Project P0522,Railways,Indian Railways,Bihar,Patna,2026-09-01,62.88,63,28,68.60648,0.243039,0.300052,0.266418,0.337731,0.337731,Stable,active project
-P0525,Roads & Highways · Dehradun · Project P0525,Roads & Highways,State PWD,Uttarakhand,Dehradun,2020-07-01,100,100,-7,114.806303,0.478694,0.552202,0.540299,0.633523,0.633523,Elevated,historical snapshot · completed
-P0531,Roads & Highways · Mumbai Suburban · Project P0531,Roads & Highways,NHAI,Maharashtra,Mumbai Suburban,2022-02-01,100,100,-2,108.2,0.241214,0.298099,0.316325,0.391631,0.391631,Elevated,historical snapshot · completed
+P0525,Roads & Highways · Dehradun · Project P0525,Roads & Highways,State PWD,Uttarakhand,Dehradun,2020-07-01,100,100,-7,114.806303,0.478694,0.552202,0.540299,0.633523,0.633523,Elevated,· completed
+P0531,Roads & Highways · Mumbai Suburban · Project P0531,Roads & Highways,NHAI,Maharashtra,Mumbai Suburban,2022-02-01,100,100,-2,108.2,0.241214,0.298099,0.316325,0.391631,0.391631,Elevated,· completed
 P0533,Roads & Highways · Nagpur · Project P0533,Roads & Highways,State PWD,Maharashtra,Nagpur,2026-09-01,11.11,8.48,45,8.832426,0.220258,0.275676,0.475324,0.56335,0.56335,Elevated,active project
 P0536,Roads & Highways · South Andaman · Project P0536,Roads & Highways,NHAI,Andaman and Nicobar Islands,South Andaman,2026-09-01,92.42,87.63,9,94.563008,0.19887,0.252791,0.443132,0.528583,0.528583,Elevated,active project
 P0539,Roads & Highways · Udaipur · Project P0539,Roads & Highways,MoRTH,Rajasthan,Udaipur,2026-09-01,75.35,72.5,22,80.768527,0.231005,0.287175,0.347578,0.425384,0.425384,Elevated,active project
 P0542,Roads & Highways · Karimnagar · Project P0542,Roads & Highways,MoRTH,Telangana,Karimnagar,2026-09-01,79.85,78.01,9,78.943582,0.091565,0.137975,0.31819,0.393645,0.393645,Stable,active project
 P0543,Railways · Guntur · Project P0543,Railways,IRCON,Andhra Pradesh,Guntur,2026-09-01,33.48,37.62,39,38.848039,0.200529,0.254566,0.288669,0.361762,0.361762,Stable,active project
-P0545,Railways · Hyderabad · Project P0545,Railways,IRCON,Telangana,Hyderabad,2022-08-01,100,100,-2,108.513608,0.34421,0.408305,0.287816,0.360841,0.408305,Elevated,historical snapshot · completed
-P0549,Telecommunication · NTR · Project P0549,Telecommunication,BSNL,Andhra Pradesh,NTR,2023-11-01,100,100,-5,109.533333,0.266636,0.325301,0.540775,0.634037,0.634037,Elevated,historical snapshot · completed
+P0545,Railways · Hyderabad · Project P0545,Railways,IRCON,Telangana,Hyderabad,2022-08-01,100,100,-2,108.513608,0.34421,0.408305,0.287816,0.360841,0.408305,Elevated,· completed
+P0549,Telecommunication · NTR · Project P0549,Telecommunication,BSNL,Andhra Pradesh,NTR,2023-11-01,100,100,-5,109.533333,0.266636,0.325301,0.540775,0.634037,0.634037,Elevated,· completed
 P0569,Roads & Highways · Nagpur · Project P0569,Roads & Highways,State PWD,Maharashtra,Nagpur,2026-09-01,28.89,34.87,30,36.225869,0.190828,0.244186,0.240651,0.309903,0.309903,Stable,active project
-P0570,Healthcare · Surat · Project P0570,Healthcare,CPWD,Gujarat,Surat,2025-11-01,100,100,-1,112.995452,0.347319,0.411631,0.251198,0.321294,0.411631,Elevated,historical snapshot · completed
-P0575,Roads & Highways · Visakhapatnam · Project P0575,Roads & Highways,NHAI,Andhra Pradesh,Visakhapatnam,2025-02-01,100,100,-1,98.650836,0.08,0.086126,0.225929,0.294004,0.294004,Stable,historical snapshot · completed
+P0570,Healthcare · Surat · Project P0570,Healthcare,CPWD,Gujarat,Surat,2025-11-01,100,100,-1,112.995452,0.347319,0.411631,0.251198,0.321294,0.411631,Elevated,· completed
+P0575,Roads & Highways · Visakhapatnam · Project P0575,Roads & Highways,NHAI,Andhra Pradesh,Visakhapatnam,2025-02-01,100,100,-1,98.650836,0.08,0.086126,0.225929,0.294004,0.294004,Stable,· completed
 P0576,Roads & Highways · Dharwad · Project P0576,Roads & Highways,MoRTH,Karnataka,Dharwad,2026-09-01,98.63,90.61,1,96,0.186955,0.240042,0.45034,0.536367,0.536367,Elevated,deadline within 6 months
 P0578,Roads & Highways · Surat · Project P0578,Roads & Highways,NHAI,Gujarat,Surat,2026-09-01,25.46,28.28,32,29.748886,0.146355,0.1966,0.29907,0.372995,0.372995,Stable,active project
 P0582,Roads & Highways · Srinagar · Project P0582,Roads & Highways,NHAI,Jammu and Kashmir,Srinagar,2026-09-01,75.04,65.81,21,66.809651,0.103634,0.150888,0.480464,0.568901,0.568901,Elevated,active project
 P0583,Railways · Lucknow · Project P0583,Railways,RVNL,Uttar Pradesh,Lucknow,2026-09-01,100,96.39,-2,110.131712,0.435958,0.506476,0.420307,0.503932,0.506476,Elevated,already overdue
 P0588,Roads & Highways · Darjeeling · Project P0588,Roads & Highways,MoRTH,West Bengal,Darjeeling,2026-09-01,32.58,34.89,14,35.606179,0.150936,0.201502,0.337082,0.414049,0.414049,Stable,active project
 P0589,Roads & Highways · South West Delhi · Project P0589,Roads & Highways,NHAI,Delhi,South West Delhi,2026-09-01,33.98,33.34,45,31.157864,0.184638,0.237563,0.277868,0.350097,0.350097,Stable,active project
-P0590,Roads & Highways · NTR · Project P0590,Roads & Highways,NHAI,Andhra Pradesh,NTR,2022-06-01,100,100,-9,97.679883,0.104498,0.151813,0.665517,0.768758,0.768758,Elevated,historical snapshot · completed
-P0591,Railways · Mysuru · Project P0591,Railways,IRCON,Karnataka,Mysuru,2024-02-01,100,100,-2,113.362939,0.432788,0.503083,0.234581,0.303347,0.503083,Elevated,historical snapshot · completed
+P0590,Roads & Highways · NTR · Project P0590,Roads & Highways,NHAI,Andhra Pradesh,NTR,2022-06-01,100,100,-9,97.679883,0.104498,0.151813,0.665517,0.768758,0.768758,Elevated,· completed
+P0591,Railways · Mysuru · Project P0591,Railways,IRCON,Karnataka,Mysuru,2024-02-01,100,100,-2,113.362939,0.432788,0.503083,0.234581,0.303347,0.503083,Elevated,· completed
 P0599,Roads & Highways · Amritsar · Project P0599,Roads & Highways,MoRTH,Punjab,Amritsar,2026-09-01,3.3,5.1,29,5.125863,0.08,0.11711,0.16316,0.226213,0.226213,Stable,active project
 P0603,Roads & Highways · Gaya · Project P0603,Roads & Highways,State PWD,Bihar,Gaya,2026-09-01,84.5,86.28,10,85.666874,0.207258,0.261766,0.180316,0.244741,0.261766,Stable,active project
 P0615,Roads & Highways · Bhopal · Project P0615,Roads & Highways,State PWD,Madhya Pradesh,Bhopal,2026-09-01,35.84,36.45,36,37.534414,0.153581,0.204332,0.348572,0.426458,0.426458,Stable,active project
@@ -166,15 +166,15 @@ P0625,Roads & Highways · Ganjam · Project P0625,Roads & Highways,State PWD,Odi
 P0626,Healthcare · Raipur · Project P0626,Healthcare,CPWD,Chhattisgarh,Raipur,2026-09-01,44.74,39.29,20,42.301711,0.27618,0.335513,0.308982,0.383701,0.383701,Elevated,active project
 P0629,Telecommunication · Coimbatore · Project P0629,Telecommunication,BSNL,Tamil Nadu,Coimbatore,2026-09-01,14.24,11.56,24,11.945205,0.11761,0.165843,0.28385,0.356558,0.356558,Stable,active project
 P0631,Roads & Highways · Vadodara · Project P0631,Roads & Highways,State PWD,Gujarat,Vadodara,2026-09-01,20.63,22.55,48,24.066667,0.16905,0.220884,0.187854,0.252882,0.252882,Stable,active project
-P0649,Roads & Highways · Patna · Project P0649,Roads & Highways,State PWD,Bihar,Patna,2023-06-01,100,100,-4,113.4,0.387508,0.454634,0.476335,0.564442,0.564442,Elevated,historical snapshot · completed
-P0652,Roads & Highways · Ri Bhoi · Project P0652,Roads & Highways,NHAI,Meghalaya,Ri Bhoi,2020-04-01,100,100,-4,121.533333,0.491768,0.566192,0.380352,0.46078,0.566192,Elevated,historical snapshot · completed
+P0649,Roads & Highways · Patna · Project P0649,Roads & Highways,State PWD,Bihar,Patna,2023-06-01,100,100,-4,113.4,0.387508,0.454634,0.476335,0.564442,0.564442,Elevated,· completed
+P0652,Roads & Highways · Ri Bhoi · Project P0652,Roads & Highways,NHAI,Meghalaya,Ri Bhoi,2020-04-01,100,100,-4,121.533333,0.491768,0.566192,0.380352,0.46078,0.566192,Elevated,· completed
 P0657,Telecommunication · North and Middle Andaman · Project P0657,Telecommunication,BSNL,Andaman and Nicobar Islands,North and Middle Andaman,2026-09-01,62.88,60.68,10,62.717818,0.145854,0.196064,0.371112,0.450801,0.450801,Stable,active project
 P0658,Coal · Kanpur Nagar · Project P0658,Coal,Coal India Ltd,Uttar Pradesh,Kanpur Nagar,2026-09-01,17.53,13.22,33,13.466667,0.157904,0.208957,0.392286,0.473668,0.473668,Elevated,active project
 P0664,Railways · South West Delhi · Project P0664,Railways,Indian Railways,Delhi,South West Delhi,2026-09-01,60.05,43.75,19,51.107676,0.479546,0.553114,0.591309,0.688614,0.688614,Elevated,active project
-P0668,Railways · Ranchi · Project P0668,Railways,Indian Railways,Jharkhand,Ranchi,2023-07-01,100,100,-6,125.25166,0.772929,0.867034,0.59942,0.697374,0.867034,Severe,historical snapshot · completed
-P0669,Railways · Haridwar · Project P0669,Railways,IRCON,Uttarakhand,Haridwar,2020-11-01,100,100,-3,103.466667,0.123628,0.172282,0.350274,0.428296,0.428296,Stable,historical snapshot · completed
+P0668,Railways · Ranchi · Project P0668,Railways,Indian Railways,Jharkhand,Ranchi,2023-07-01,100,100,-6,125.25166,0.772929,0.867034,0.59942,0.697374,0.867034,Severe,· completed
+P0669,Railways · Haridwar · Project P0669,Railways,IRCON,Uttarakhand,Haridwar,2020-11-01,100,100,-3,103.466667,0.123628,0.172282,0.350274,0.428296,0.428296,Stable,· completed
 P0673,Roads & Highways · Jodhpur · Project P0673,Roads & Highways,NHAI,Rajasthan,Jodhpur,2026-09-01,52.82,56.03,11,53.617499,0.10804,0.155603,0.288602,0.36169,0.36169,Stable,active project
-P0675,Roads & Highways · Pune · Project P0675,Roads & Highways,NHAI,Maharashtra,Pune,2020-09-01,100,100,-6,114.801806,0.393398,0.460936,0.53305,0.625694,0.625694,Elevated,historical snapshot · completed
+P0675,Roads & Highways · Pune · Project P0675,Roads & Highways,NHAI,Maharashtra,Pune,2020-09-01,100,100,-6,114.801806,0.393398,0.460936,0.53305,0.625694,0.625694,Elevated,· completed
 P0678,Roads & Highways · Kolkata · Project P0678,Roads & Highways,NHAI,West Bengal,Kolkata,2026-09-01,90.61,82.44,5,95.15321,0.357342,0.422356,0.406811,0.489356,0.489356,Elevated,deadline within 6 months
 P0688,Coal · Durg · Project P0688,Coal,Coal India Ltd,Chhattisgarh,Durg,2026-09-01,51.97,30.5,16,31.237221,0.127825,0.176773,0.533536,0.626219,0.626219,Elevated,active project
 P0693,Railways · NTR · Project P0693,Railways,RVNL,Andhra Pradesh,NTR,2026-09-01,100,95.13,-2,104.006772,0.218518,0.273815,0.497444,0.58724,0.58724,Elevated,already overdue
@@ -184,43 +184,43 @@ P0711,Roads & Highways · Bengaluru Urban · Project P0711,Roads & Highways,Stat
 P0714,Roads & Highways · Faridabad · Project P0714,Roads & Highways,NHAI,Haryana,Faridabad,2026-09-01,66.65,56.59,27,61.392013,0.339866,0.403657,0.574998,0.670998,0.670998,Elevated,active project
 P0718,Roads & Highways · Ludhiana · Project P0718,Roads & Highways,NHAI,Punjab,Ludhiana,2026-09-01,22.06,26.28,37,27.904949,0.235674,0.292171,0.276861,0.34901,0.34901,Stable,active project
 P0730,Railways · Cachar · Project P0730,Railways,IRCON,Assam,Cachar,2026-09-01,74.69,68.93,10,78.549182,0.348026,0.412388,0.378704,0.459,0.459,Elevated,active project
-P0731,Roads & Highways · Diu · Project P0731,Roads & Highways,NHAI,Dadra and Nagar Haveli and Daman and Diu,Diu,2020-03-01,100,100,-13,109.147351,0.335179,0.398642,0.868668,0.92,0.92,Severe,historical snapshot · completed
-P0734,Coal · Cuttack · Project P0734,Coal,MCL,Odisha,Cuttack,2026-01-01,100,100,-2,122.091217,0.814007,0.910987,0.35885,0.437558,0.910987,Severe,historical snapshot · completed
-P0739,Roads & Highways · New Delhi · Project P0739,Roads & Highways,State PWD,Delhi,New Delhi,2022-09-01,100,100,-1,107.525611,0.199966,0.253963,0.26415,0.335282,0.335282,Stable,historical snapshot · completed
-P0741,Urban Public Transport · Mumbai Suburban · Project P0741,Urban Public Transport,State Metro Corp,Maharashtra,Mumbai Suburban,2023-02-01,100,100,-9,113.039853,0.836219,0.92,0.70115,0.807242,0.92,Severe,historical snapshot · completed
+P0731,Roads & Highways · Diu · Project P0731,Roads & Highways,NHAI,Dadra and Nagar Haveli and Daman and Diu,Diu,2020-03-01,100,100,-13,109.147351,0.335179,0.398642,0.868668,0.92,0.92,Severe,· completed
+P0734,Coal · Cuttack · Project P0734,Coal,MCL,Odisha,Cuttack,2026-01-01,100,100,-2,122.091217,0.814007,0.910987,0.35885,0.437558,0.910987,Severe,· completed
+P0739,Roads & Highways · New Delhi · Project P0739,Roads & Highways,State PWD,Delhi,New Delhi,2022-09-01,100,100,-1,107.525611,0.199966,0.253963,0.26415,0.335282,0.335282,Stable,· completed
+P0741,Urban Public Transport · Mumbai Suburban · Project P0741,Urban Public Transport,State Metro Corp,Maharashtra,Mumbai Suburban,2023-02-01,100,100,-9,113.039853,0.836219,0.92,0.70115,0.807242,0.92,Severe,· completed
 P0743,Roads & Highways · Lucknow · Project P0743,Roads & Highways,State PWD,Uttar Pradesh,Lucknow,2026-09-01,67.05,57.48,11,59.047136,0.08749,0.133614,0.448676,0.53457,0.53457,Elevated,active project
 P0744,Roads & Highways · Mumbai Suburban · Project P0744,Roads & Highways,MoRTH,Maharashtra,Mumbai Suburban,2026-09-01,71.11,66.85,9,69.08394,0.225984,0.281803,0.305045,0.379449,0.379449,Stable,active project
 P0745,Real Estate · Vadodara · Project P0745,Real Estate,HUDCO,Gujarat,Vadodara,2026-09-01,79.03,72.12,9,80.529629,0.264455,0.322967,0.441689,0.527024,0.527024,Elevated,active project
-P0751,Healthcare · Dibrugarh · Project P0751,Healthcare,CPWD,Assam,Dibrugarh,2022-08-01,100,100,-2,109.730208,0.366289,0.431929,0.357382,0.435973,0.435973,Elevated,historical snapshot · completed
-P0756,Roads & Highways · Howrah · Project P0756,Roads & Highways,NHAI,West Bengal,Howrah,2020-11-01,100,100,0,100.990947,0.100909,0.147973,0.151868,0.214018,0.214018,Stable,historical snapshot · completed
-P0768,Roads & Highways · Varanasi · Project P0768,Roads & Highways,State PWD,Uttar Pradesh,Varanasi,2026-03-01,100,100,-12,119.666667,0.513492,0.589436,0.800419,0.914453,0.914453,Severe,historical snapshot · completed
-P0774,Railways · Ahmedabad · Project P0774,Railways,RVNL,Gujarat,Ahmedabad,2020-06-01,100,100,-6,114.244563,0.434265,0.504664,0.4632,0.550256,0.550256,Elevated,historical snapshot · completed
-P0777,Roads & Highways · Chennai · Project P0777,Roads & Highways,State PWD,Tamil Nadu,Chennai,2021-11-01,100,100,0,101.23789,0.08,0.121896,0.152092,0.214259,0.214259,Stable,historical snapshot · completed
+P0751,Healthcare · Dibrugarh · Project P0751,Healthcare,CPWD,Assam,Dibrugarh,2022-08-01,100,100,-2,109.730208,0.366289,0.431929,0.357382,0.435973,0.435973,Elevated,· completed
+P0756,Roads & Highways · Howrah · Project P0756,Roads & Highways,NHAI,West Bengal,Howrah,2020-11-01,100,100,0,100.990947,0.100909,0.147973,0.151868,0.214018,0.214018,Stable,· completed
+P0768,Roads & Highways · Varanasi · Project P0768,Roads & Highways,State PWD,Uttar Pradesh,Varanasi,2026-03-01,100,100,-12,119.666667,0.513492,0.589436,0.800419,0.914453,0.914453,Severe,· completed
+P0774,Railways · Ahmedabad · Project P0774,Railways,RVNL,Gujarat,Ahmedabad,2020-06-01,100,100,-6,114.244563,0.434265,0.504664,0.4632,0.550256,0.550256,Elevated,· completed
+P0777,Roads & Highways · Chennai · Project P0777,Roads & Highways,State PWD,Tamil Nadu,Chennai,2021-11-01,100,100,0,101.23789,0.08,0.121896,0.152092,0.214259,0.214259,Stable,· completed
 P0778,Roads & Highways · Bilaspur · Project P0778,Roads & Highways,State PWD,Chhattisgarh,Bilaspur,2026-09-01,28.29,24.44,45,25.040735,0.16148,0.212784,0.389322,0.470468,0.470468,Elevated,active project
 P0779,Healthcare · Bhopal · Project P0779,Healthcare,State Health Dept,Madhya Pradesh,Bhopal,2026-09-01,40.37,44.71,27,45.3443,0.176856,0.229236,0.281085,0.353572,0.353572,Stable,active project
-P0783,Roads & Highways · Raipur · Project P0783,Roads & Highways,State PWD,Chhattisgarh,Raipur,2026-03-01,100,100,-10,102.209862,0.181341,0.234035,0.85785,0.92,0.92,Elevated,historical snapshot · completed
-P0787,Roads & Highways · Puducherry · Project P0787,Roads & Highways,State PWD,Puducherry,Puducherry,2025-07-01,100,100,-8,119.353327,0.566822,0.6465,0.682019,0.786581,0.786581,Severe,historical snapshot · completed
+P0783,Roads & Highways · Raipur · Project P0783,Roads & Highways,State PWD,Chhattisgarh,Raipur,2026-03-01,100,100,-10,102.209862,0.181341,0.234035,0.85785,0.92,0.92,Elevated,· completed
+P0787,Roads & Highways · Puducherry · Project P0787,Roads & Highways,State PWD,Puducherry,Puducherry,2025-07-01,100,100,-8,119.353327,0.566822,0.6465,0.682019,0.786581,0.786581,Severe,· completed
 P0789,Railways · Ri Bhoi · Project P0789,Railways,IRCON,Meghalaya,Ri Bhoi,2026-09-01,20.97,16.37,25,16.889337,0.130645,0.17979,0.458544,0.545228,0.545228,Elevated,active project
 P0794,Roads & Highways · Coimbatore · Project P0794,Roads & Highways,NHAI,Tamil Nadu,Coimbatore,2026-09-01,57.62,50.69,15,51.016284,0.113078,0.160993,0.29082,0.364086,0.364086,Stable,active project
-P0800,Roads & Highways · Dibrugarh · Project P0800,Roads & Highways,NHAI,Assam,Dibrugarh,2024-03-01,100,100,-5,107.361512,0.370004,0.435905,0.419194,0.50273,0.50273,Elevated,historical snapshot · completed
+P0800,Roads & Highways · Dibrugarh · Project P0800,Roads & Highways,NHAI,Assam,Dibrugarh,2024-03-01,100,100,-5,107.361512,0.370004,0.435905,0.419194,0.50273,0.50273,Elevated,· completed
 P0801,Roads & Highways · Warangal · Project P0801,Roads & Highways,NHAI,Telangana,Warangal,2026-09-01,100,96.97,-1,92.25303,0.156356,0.207301,0.406114,0.488603,0.488603,Elevated,already overdue
 P0807,Electricity Generation · Ambala · Project P0807,Electricity Generation,NTPC,Haryana,Ambala,2026-09-01,87.62,85.77,13,85.742972,0.114434,0.162444,0.318992,0.394511,0.394511,Stable,active project
-P0809,Roads & Highways · Faridabad · Project P0809,Roads & Highways,NHAI,Haryana,Faridabad,2025-09-01,100,100,-3,107.287572,0.314783,0.376817,0.486049,0.574933,0.574933,Elevated,historical snapshot · completed
+P0809,Roads & Highways · Faridabad · Project P0809,Roads & Highways,NHAI,Haryana,Faridabad,2025-09-01,100,100,-3,107.287572,0.314783,0.376817,0.486049,0.574933,0.574933,Elevated,· completed
 P0820,Roads & Highways · Lucknow · Project P0820,Roads & Highways,NHAI,Uttar Pradesh,Lucknow,2026-09-01,97.61,96.92,3,114.500684,0.558855,0.637975,0.29346,0.366937,0.637975,Elevated,deadline within 6 months
-P0826,Roads & Highways · Jodhpur · Project P0826,Roads & Highways,State PWD,Rajasthan,Jodhpur,2021-04-01,100,100,-6,105.390463,0.288871,0.349091,0.6157,0.714956,0.714956,Elevated,historical snapshot · completed
+P0826,Roads & Highways · Jodhpur · Project P0826,Roads & Highways,State PWD,Rajasthan,Jodhpur,2021-04-01,100,100,-6,105.390463,0.288871,0.349091,0.6157,0.714956,0.714956,Elevated,· completed
 P0827,Roads & Highways · Jodhpur · Project P0827,Roads & Highways,State PWD,Rajasthan,Jodhpur,2026-09-01,14.92,13.88,46,13.92372,0.08,0.101027,0.311102,0.38599,0.38599,Stable,active project
 P0829,Roads & Highways · Jaipur · Project P0829,Roads & Highways,MoRTH,Rajasthan,Jaipur,2026-09-01,76,57.67,7,61.869159,0.204244,0.258541,0.532104,0.624672,0.624672,Elevated,active project
-P0832,Roads & Highways · Visakhapatnam · Project P0832,Roads & Highways,State PWD,Andhra Pradesh,Visakhapatnam,2025-03-01,100,100,0,99.933333,0.08,0.092216,0.19952,0.265482,0.265482,Stable,historical snapshot · completed
-P0834,Roads & Highways · North Goa · Project P0834,Roads & Highways,State PWD,Goa,North Goa,2023-06-01,100,100,-8,103.135578,0.203732,0.257993,0.677702,0.781919,0.781919,Elevated,historical snapshot · completed
-P0837,Roads & Highways · Ganjam · Project P0837,Roads & Highways,State PWD,Odisha,Ganjam,2026-06-01,100,100,0,102.743902,0.173765,0.225929,0.203174,0.269428,0.269428,Stable,historical snapshot · completed
-P0843,Oil & Gas · Patna · Project P0843,Oil & Gas,IOCL,Bihar,Patna,2026-03-01,100,100,-5,109.877877,0.356648,0.421614,0.541056,0.63434,0.63434,Elevated,historical snapshot · completed
-P0845,Coal · Cuttack · Project P0845,Coal,Coal India Ltd,Odisha,Cuttack,2025-09-01,100,100,-9,122.299195,0.818426,0.915715,0.689334,0.794481,0.915715,Severe,historical snapshot · completed
+P0832,Roads & Highways · Visakhapatnam · Project P0832,Roads & Highways,State PWD,Andhra Pradesh,Visakhapatnam,2025-03-01,100,100,0,99.933333,0.08,0.092216,0.19952,0.265482,0.265482,Stable,· completed
+P0834,Roads & Highways · North Goa · Project P0834,Roads & Highways,State PWD,Goa,North Goa,2023-06-01,100,100,-8,103.135578,0.203732,0.257993,0.677702,0.781919,0.781919,Elevated,· completed
+P0837,Roads & Highways · Ganjam · Project P0837,Roads & Highways,State PWD,Odisha,Ganjam,2026-06-01,100,100,0,102.743902,0.173765,0.225929,0.203174,0.269428,0.269428,Stable,· completed
+P0843,Oil & Gas · Patna · Project P0843,Oil & Gas,IOCL,Bihar,Patna,2026-03-01,100,100,-5,109.877877,0.356648,0.421614,0.541056,0.63434,0.63434,Elevated,· completed
+P0845,Coal · Cuttack · Project P0845,Coal,Coal India Ltd,Odisha,Cuttack,2025-09-01,100,100,-9,122.299195,0.818426,0.915715,0.689334,0.794481,0.915715,Severe,· completed
 P0850,Roads & Highways · Coimbatore · Project P0850,Roads & Highways,NHAI,Tamil Nadu,Coimbatore,2026-09-01,53.42,53.44,18,54.652241,0.168193,0.219967,0.253858,0.324167,0.324167,Stable,active project
-P0857,Railways · Jalandhar · Project P0857,Railways,IRCON,Punjab,Jalandhar,2024-03-01,100,100,-6,103.222938,0.279456,0.339018,0.621647,0.721379,0.721379,Elevated,historical snapshot · completed
-P0862,Roads & Highways · Dibrugarh · Project P0862,Roads & Highways,NHAI,Assam,Dibrugarh,2022-04-01,100,100,-2,103.215434,0.112499,0.160374,0.220818,0.288483,0.288483,Stable,historical snapshot · completed
+P0857,Railways · Jalandhar · Project P0857,Railways,IRCON,Punjab,Jalandhar,2024-03-01,100,100,-6,103.222938,0.279456,0.339018,0.621647,0.721379,0.721379,Elevated,· completed
+P0862,Roads & Highways · Dibrugarh · Project P0862,Roads & Highways,NHAI,Assam,Dibrugarh,2022-04-01,100,100,-2,103.215434,0.112499,0.160374,0.220818,0.288483,0.288483,Stable,· completed
 P0874,Transmission & Distribution · Karimnagar · Project P0874,Transmission & Distribution,State DISCOM,Telangana,Karimnagar,2026-09-01,11.11,6.15,30,6.42893,0.12389,0.172562,0.30953,0.384292,0.384292,Stable,active project
 P0885,Roads & Highways · Bengaluru Urban · Project P0885,Roads & Highways,MoRTH,Karnataka,Bengaluru Urban,2026-09-01,63.71,57.88,24,56.675192,0.164012,0.215493,0.454833,0.541219,0.541219,Elevated,active project
 P0891,Railways · Mumbai Suburban · Project P0891,Railways,Indian Railways,Maharashtra,Mumbai Suburban,2026-09-01,11.11,5.52,15,5.774648,0.229626,0.2857,0.344914,0.422507,0.422507,Elevated,active project
-P0894,Roads & Highways · Hyderabad · Project P0894,Roads & Highways,MoRTH,Telangana,Hyderabad,2024-06-01,100,100,-11,89.99346,0.08,0.114772,0.798048,0.911892,0.911892,Elevated,historical snapshot · completed
+P0894,Roads & Highways · Hyderabad · Project P0894,Roads & Highways,MoRTH,Telangana,Hyderabad,2024-06-01,100,100,-11,89.99346,0.08,0.114772,0.798048,0.911892,0.911892,Elevated,· completed
 P0895,Roads & Highways · Baramulla · Project P0895,Roads & Highways,NHAI,Jammu and Kashmir,Baramulla,2026-09-01,24.79,30.68,47,32.517355,0.226597,0.282459,0.233789,0.302492,0.302492,Stable,active project
-P0897,Electricity Generation · Visakhapatnam · Project P0897,Electricity Generation,State Genco,Andhra Pradesh,Visakhapatnam,2025-01-01,100,100,-4,115.199577,0.623822,0.707489,0.405941,0.488416,0.707489,Elevated,historical snapshot · completed
+P0897,Electricity Generation · Visakhapatnam · Project P0897,Electricity Generation,State Genco,Andhra Pradesh,Visakhapatnam,2025-01-01,100,100,-4,115.199577,0.623822,0.707489,0.405941,0.488416,0.707489,Elevated,· completed

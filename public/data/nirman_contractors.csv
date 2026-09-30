@@ -1,31 +1,31 @@
-contractor_id,contractor_name,registration_year,registration_class,home_state_code,n_projects_in_register,completed_by_cutoff,insufficient_history_flag
-CTR-01,Contractor 01,2010,Class II,KA,8,5,0
-CTR-02,Contractor 02,2009,Class I,BR,6,2,1
-CTR-03,Contractor 03,2012,Class I,AP,11,4,0
-CTR-04,Contractor 04,2012,Special,AP,9,5,0
-CTR-05,Contractor 05,2015,Class I,AP,8,1,1
-CTR-06,Contractor 06,2002,Class I,JH,7,4,0
-CTR-07,Contractor 07,2006,Class I,AP,6,3,0
-CTR-08,Contractor 08,2009,Class I,MH,5,3,0
-CTR-09,Contractor 09,2010,Class II,MH,10,3,0
-CTR-10,Contractor 10,2004,Special,UP,7,2,1
-CTR-11,Contractor 11,2009,Special,AP,6,4,0
-CTR-12,Contractor 12,2006,Class I,GJ,6,3,0
-CTR-13,Contractor 13,2005,Class II,RJ,8,2,1
-CTR-14,Contractor 14,2003,Class I,KA,6,4,0
-CTR-15,Contractor 15,2000,Class I,BR,10,4,0
-CTR-16,Contractor 16,2004,Class I,HR,9,6,0
-CTR-17,Contractor 17,2009,Special,AR,8,4,0
-CTR-18,Contractor 18,2014,Class II,UP,7,4,0
-CTR-19,Contractor 19,2008,Class I,CT,8,4,0
-CTR-20,Contractor 20,2012,Class I,AP,8,2,1
-CTR-21,Contractor 21,2007,Special,AN,8,3,0
-CTR-22,Contractor 22,2010,Class I,AP,5,2,1
-CTR-23,Contractor 23,2009,Class II,HR,7,1,1
-CTR-24,Contractor 24,2018,Class I,GJ,5,0,1
-CTR-25,Contractor 25,2007,Class I,AP,8,4,0
-CTR-26,Contractor 26,2007,Special,BR,7,3,0
-CTR-27,Contractor 27,2003,Class I,AN,6,3,0
-CTR-28,Contractor 28,2007,Class I,WB,6,3,0
-CTR-29,Contractor 29,2002,Class II,RJ,10,7,0
-CTR-30,Contractor 30,2006,Class II,KA,10,5,0
+﻿"contractor_id","contractor_name","registration_year","registration_class","home_state_code","n_projects_in_register","completed_by_cutoff","insufficient_history_flag"
+"CTR-01","Aarohan Infraworks","2010","Class II","KA","8","5","0"
+"CTR-02","Eastern Meridian Buildworks","2009","Class I","BR","6","2","1"
+"CTR-03","Deccan Crest Engineering","2012","Class I","AP","11","4","0"
+"CTR-04","BlueRiver Civil Projects","2012","Special","AP","9","5","0"
+"CTR-05","Vistara Gridworks","2015","Class I","AP","8","1","1"
+"CTR-06","Kaveri Infrastructure Group","2002","Class I","JH","7","4","0"
+"CTR-07","Northstar Project Works","2006","Class I","AP","6","3","0"
+"CTR-08","Shakti Urban Engineering","2009","Class I","MH","5","3","0"
+"CTR-09","Western Arc Constructors","2010","Class II","MH","10","3","0"
+"CTR-10","Banyan Ridge Contractors","2004","Special","UP","7","2","1"
+"CTR-11","Coastal Span Infraworks","2009","Special","AP","6","4","0"
+"CTR-12","Golden Field Engineering","2006","Class I","GJ","6","3","0"
+"CTR-13","Aravali Project Services","2005","Class II","RJ","8","2","1"
+"CTR-14","Western Ghat Buildworks","2003","Class I","KA","6","4","0"
+"CTR-15","Patna Axis Infrastructure","2000","Class I","BR","10","4","0"
+"CTR-16","Haryana Civil Engineering Works","2004","Class I","HR","9","6","0"
+"CTR-17","Eastern Frontier Infraworks","2009","Special","AR","8","4","0"
+"CTR-18","Vindhya Project Group","2014","Class II","UP","7","4","0"
+"CTR-19","Central Plains Constructors","2008","Class I","CT","8","4","0"
+"CTR-20","Godavari Engineering Partners","2012","Class I","AP","8","2","1"
+"CTR-21","Island Bridgeworks","2007","Special","AN","8","3","0"
+"CTR-22","Eastern Coast Civilworks","2010","Class I","AP","5","2","1"
+"CTR-23","Meridian Roads and Railworks","2009","Class II","HR","7","1","1"
+"CTR-24","Saurashtra Buildworks","2018","Class I","GJ","5","0","1"
+"CTR-25","Blue Peak Project Services","2007","Class I","AP","8","4","0"
+"CTR-26","Magadh Infrastructure Group","2007","Special","BR","7","3","0"
+"CTR-27","Andaman Shoreline Works","2003","Class I","AN","6","3","0"
+"CTR-28","Bengal Delta Engineering","2007","Class I","WB","6","3","0"
+"CTR-29","Desert Line Infrastructure","2002","Class II","RJ","10","7","0"
+"CTR-30","Southern Cross Civil Projects","2006","Class II","KA","10","5","0"
